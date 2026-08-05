@@ -9,12 +9,12 @@
 
 **Styles:**
 ```
-sludge metal, hardcore punk, crust, downtuned bass-heavy riff, feedback, spoken word intro over noise, screamed male vocal, russian language, 92 bpm doom groove into 168 bpm d-beat, industrial noise, siren, protest chant, raw analog distortion
+sludge metal, hardcore punk, crust, downtuned bass-heavy riff, feedback, spoken word intro over noise, shouted hoarse male voice, cracking throat, live room take, russian language, 92 bpm doom groove into 168 bpm d-beat, industrial noise, siren, protest chant, raw analog distortion, natural unprocessed human voice, close-mic one-take feel, audible breaths, slight rasp and cracks, analog tape warmth, no autotune
 ```
 
 **Exclude styles:**
 ```
-melodic, pop, synthwave, clean singing, acoustic, cheerful, trap
+melodic, pop, synthwave, clean singing, acoustic, cheerful, trap, autotune, vocoder, robotic vocal, synthetic AI voice, over-processed vocals, pitch-corrected, digital sheen
 ```
 
 | Поле | Значение |
@@ -49,7 +49,7 @@ sludge metal · crust punk · d-beat · hardcore punk · noise rock · doom-hard
 «Мы вам не верим. Вас, наверно, бросила она».
 
 [Pre-Chorus: tempo doubles, d-beat kicks in]
-Они не приезжают. Они ничего не делают.
+Они не приезжают. Они нихуя не делают.
 Они берут наш крик и просто кладут трубку.
 
 [Chorus: screamed, gang chant]
@@ -65,7 +65,7 @@ sludge metal · crust punk · d-beat · hardcore punk · noise rock · doom-hard
 Депутат сказал «не покупайте» — и себе купил. И спал.
 
 [Verse 2b]
-Они назвали половину нас людьми второго сорта —
+Они назвали половину нас неполноценными людьми —
 мы прочитали, посмеялись и налили по второй.
 Мы не выходим на площадь — мы выходим в два ночи
 в наш телеграм, и это весь наш митинг и наш строй.
@@ -83,7 +83,7 @@ sludge metal · crust punk · d-beat · hardcore punk · noise rock · doom-hard
 и сад умрёт, но мы напишем: «Ну, обычный день».
 
 [Breakdown: everything stops, one voice, huge reverb]
-Я давно говорила, что нас всех обманут.
+Я давно говорила, что нас всех выебут.
 Я давно говорила.
 Я давно.
 
@@ -96,6 +96,3 @@ sludge metal · crust punk · d-beat · hardcore punk · noise rock · doom-hard
 [Outro: feedback dies, spoken flat]
 Наша полиция нас бережёт.
 ```
-
-### Вариант с точной цитатой
-В [Breakdown] можно поставить дословное: `Я давно говорила, что нас всех выебут.` — Suno обычно пропускает, но если генерация срывается, оставить смягчённый вариант выше.

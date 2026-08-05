@@ -9,12 +9,12 @@
 
 **Styles:**
 ```
-doomer rap, depressive trap, russian sadboy, emo rap, melodic chorus, minor piano loop, 808 sub bass, muffled boom bap drums, half-sung male vocal, russian language, 74 bpm, vinyl crackle, rain ambience, reverb-soaked ad-libs
+doomer rap, depressive trap, russian sadboy, emo rap, melodic chorus, minor piano loop, 808 sub bass, muffled boom bap drums, half-sung male vocal, russian language, 74 bpm, vinyl crackle, rain ambience, reverb-soaked ad-libs, natural unprocessed human voice, close-mic one-take feel, audible breaths, slight rasp and cracks, analog tape warmth, no autotune
 ```
 
 **Exclude styles:**
 ```
-happy, dance, punk, distortion guitars, gang vocals, orchestral, fast tempo
+happy, dance, punk, distortion guitars, gang vocals, orchestral, fast tempo, autotune, vocoder, robotic vocal, synthetic AI voice, over-processed vocals, pitch-corrected, digital sheen
 ```
 
 | Поле | Значение |
@@ -88,6 +88,3 @@ doomer rap · depressive trap · emo rap · sadboy phonk · lo-fi hip-hop (тё�
 Это зло ебаное.
 Никому не советую.
 ```
-
-### Если Suno заартачится на мат
-Заменить последнюю строку аутро на: `Это зло. Настоящее зло. / Никому не советую.`

@@ -9,7 +9,7 @@
 
 **Styles:**
 ```
-folk punk, horror punk ballad, russian punk rock, accordion, upright bass, fast acoustic strumming, drunken gang chorus, male raspy storyteller vocal, russian language, klezmer minor scale, 178 bpm, live tavern room sound, tambourine
+folk punk, horror punk ballad, russian punk rock, accordion, upright bass, fast acoustic strumming, drunken gang chorus, male raspy storyteller vocal, russian language, klezmer minor scale, 178 bpm, live tavern room sound, tambourine, natural unprocessed human voice, close-mic one-take feel, audible breaths, slight rasp and cracks, analog tape warmth, no autotune
 ```
 
 **Exclude styles:**

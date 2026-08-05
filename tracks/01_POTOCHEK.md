@@ -9,7 +9,7 @@
 
 **Styles** (скопировать целиком):
 ```
-neue deutsche härte, industrial metal, martial industrial drums, downtuned palm-muted guitar riff, EBM synth bass, male baritone spoken-sung vocal, russian language, gang shouts, mechanical 4/4 stomp, 108 bpm, cold analog production, church organ pad, air-raid siren
+neue deutsche härte, industrial metal, martial industrial drums, downtuned palm-muted guitar riff, EBM synth bass, male baritone spoken-sung vocal, russian language, gang shouts, mechanical 4/4 stomp, 108 bpm, cold analog production, church organ pad, air-raid siren, natural unprocessed human voice, close-mic one-take feel, audible breaths, slight rasp and cracks, analog tape warmth, no autotune
 ```
 
 **Exclude styles:**

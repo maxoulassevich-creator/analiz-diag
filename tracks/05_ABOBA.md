@@ -9,7 +9,7 @@
 
 **Styles:**
 ```
-skate punk, hardcore punk, russian punk rock, skacore horn section, fast downstroke guitars, snotty shouted male vocal, russian language, 195 bpm, gang backing vocals, garage production, clean guitar breakdown, live drums
+skate punk, hardcore punk, russian punk rock, skacore horn section, fast downstroke guitars, snotty shouted male vocal, russian language, 195 bpm, gang backing vocals, garage production, clean guitar breakdown, live drums, natural unprocessed human voice, close-mic one-take feel, audible breaths, slight rasp and cracks, analog tape warmth, no autotune
 ```
 
 **Exclude styles:**
@@ -41,8 +41,8 @@ skate punk · hardcore punk · skacore · street punk / Oi! · garage punk · с
 [Verse 1: fast downstrokes, snotty vocal]
 Одиннадцать аккаунтов в бессрочном бане,
 двенадцатый уже почти в пути.
-Мне терять давно уже нечего, кроме
-вот этой самой сети.
+Мне терять давно уже нехуй, кроме
+вот этой самой ебаной сети.
 
 [Verse 1b]
 Я как гидра: одну голову срубили —
@@ -58,7 +58,7 @@ skate punk · hardcore punk · skacore · street punk / Oi! · garage punk · с
 Я и есть бан! Я и есть бан!
 Меня выгнали в дверь — я залез через кран.
 Кто на стрим не придёт и не поставит лайк —
-прокляну до пятого колена. Так и знай!
+прокляну нахуй до пятого колена — так и знай!
 
 [Verse 2: horns stabs]
 Я медик, я из Львова, я не сплю уже лет пять,
@@ -76,7 +76,7 @@ skate punk · hardcore punk · skacore · street punk / Oi! · garage punk · с
 Я и есть бан! Я и есть бан!
 Меня выгнали в дверь — я залез через кран.
 Кто на стрим не придёт и не поставит лайк —
-прокляну до пятого колена. Так и знай!
+прокляну нахуй до пятого колена — так и знай!
 
 [Bridge: everything stops, clean guitar, single honest voice]
 А я хочу, чтоб меня помнили потом.
@@ -97,6 +97,3 @@ skate punk · hardcore punk · skacore · street punk / Oi! · garage punk · с
 [Outro: abrupt stop, one voice]
 Дадова.
 ```
-
-### Правка при отказе Suno
-`насрать` → `наплевать`; `мудак` → `дурак`.

@@ -9,12 +9,12 @@
 
 **Styles:**
 ```
-witch house, dark pop, industrial pop, female alto vocal, russian language, pitched-down choir samples, trap hi-hats, distorted 808, cathedral reverb, 82 bpm half-time, hexed bells, gothic electronic, whispered layers, sudden loud chorus
+witch house, dark pop, industrial pop, female alto vocal, russian language, pitched-down choir samples, trap hi-hats, distorted 808, cathedral reverb, 82 bpm half-time, hexed bells, gothic electronic, whispered layers, sudden loud chorus, natural unprocessed human voice, close-mic one-take feel, audible breaths, slight rasp and cracks, analog tape warmth, no autotune
 ```
 
 **Exclude styles:**
 ```
-male vocal, punk, guitar solo, cheerful pop, country, jazz
+male vocal, punk, guitar solo, cheerful pop, country, jazz, autotune, vocoder, robotic vocal, synthetic AI voice, over-processed vocals, pitch-corrected, digital sheen
 ```
 
 | Поле | Значение |
@@ -47,7 +47,7 @@ witch house · dark pop · industrial pop · gothic trap · ethereal wave · dar
 Я расколдовала вратаря — и вот Испания взяла».
 
 [Verse 1b]
-Мне в церквях нехорошо — там пахнет ладаном и тьмой,
+Мне хуёво по церквям — там пахнет ладаном и тьмой,
 я работаю тут ведьмой сразу на четыре ставки.
 Здесь каждый третий сам себе диагноз и герой,
 и каждому из них я почему-то ставлю лайки.
@@ -71,10 +71,10 @@ witch house · dark pop · industrial pop · gothic trap · ethereal wave · dar
 Я ведьма. Я нервная. И это не работа.
 
 [Verse 2b]
-Я давно вам говорила: нас обманут — всех и вся,
-я досмотрела этот матч и посчитала до конца.
-Я выпишу таблетку, я поставлю на места,
-я вас всех соберу, и вы не вспомните лица.
+Запасайтесь, ребята, на случай пиздюлей —
+я не злая, я уставшая, и так мне тяжелей.
+Я выпишу таблетку, я расставлю по местам
+и за своих я душу выебу — и вам их не отдам.
 
 [Chorus]
 Сжечь ведьму? Ну сожгите, если хватит спичек.
@@ -94,6 +94,3 @@ witch house · dark pop · industrial pop · gothic trap · ethereal wave · dar
 Опиздюлю завтра.
 Радость моя.
 ```
-
-### Правка при отказе Suno
-`Опиздюлю завтра` → `Разберусь с вами завтра`.

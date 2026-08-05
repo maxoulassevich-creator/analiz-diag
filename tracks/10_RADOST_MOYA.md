@@ -9,7 +9,7 @@
 
 **Styles:**
 ```
-anthemic folk rock, stadium singalong, gang vocals choir, acoustic guitar and mandolin, warm bass, brushed drums building to full band, male lead with mixed crowd backing, russian language, 96 bpm, live room, hand claps, hopeful major key with minor turns, big final chorus with everyone singing
+anthemic folk rock, stadium singalong, gang vocals choir, acoustic guitar and mandolin, warm bass, brushed drums building to full band, male lead with mixed crowd backing, russian language, 96 bpm, live room, hand claps, hopeful major key with minor turns, big final chorus with everyone singing, natural unprocessed human voice, close-mic one-take feel, audible breaths, slight rasp and cracks, analog tape warmth, no autotune
 ```
 
 **Exclude styles:**
@@ -66,10 +66,10 @@ anthemic folk rock · indie folk (Mumford-модель) · stadium rock · ру�
 и сам запустит нейросеть, чтоб мы услышали свой дом.
 
 [Verse 4: quieter, just voice and guitar]
-Здесь никогда не спорили о том, кто чей и чей,
-здесь Львов, Торонто, Ялта и Волгоград — и всё ничей.
-Здесь мат — это не злоба, это способ обнимать,
-здесь могут в морду дать за друга и потом же перевязать.
+Здесь Львов, Торонто, Ялта и Волгоград в одном окне,
+и мы за месяц ни разу не сцепились о войне.
+Здесь мат — не оскорбление, а способ обнимать,
+здесь «дурак ты блять» — это ласково, а морду дать — принять.
 
 [Chorus: bigger]
 Радость моя, мы ещё здесь.

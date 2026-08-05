@@ -9,12 +9,12 @@
 
 **Styles:**
 ```
-dark chamber rap, post-rock crescendo, cinematic hip-hop, cello and piano, tremolo guitar build, half-sung male vocal with dense internal rhymes, russian language, 88 bpm, sparse boom bap into wall of sound, string section, spoken word bridge, wide dynamic range
+dark chamber rap, post-rock crescendo, cinematic hip-hop, cello and piano, tremolo guitar build, half-sung male vocal with dense internal rhymes, russian language, 88 bpm, sparse boom bap into wall of sound, string section, spoken word bridge, wide dynamic range, natural unprocessed human voice, close-mic one-take feel, audible breaths, slight rasp and cracks, analog tape warmth, no autotune
 ```
 
 **Exclude styles:**
 ```
-dance, happy, punk, autotune, club, brass, comedy
+dance, happy, punk, club, brass, comedy, autotune, vocoder, robotic vocal, synthetic AI voice, over-processed vocals, pitch-corrected, digital sheen
 ```
 
 | Поле | Значение |
@@ -66,10 +66,10 @@ dark chamber rap · post-rock · cinematic hip-hop · art rap · trip-hop · neo
 мы токсично-милые, и мы не лечимся ничем.
 
 [Verse 2b]
-Работа нравится. И всё равно горю дотла.
-Я не устал — я просто вынес мусор и не смог зайти назад.
-«Так жизнь просплю», — пишу я в шесть утра,
-и это самый честный текст, что я писал когда-то. Да.
+Работа нравится — и всё равно горю дотла.
+Я не устал. Я просто вышел и не смог зайти назад.
+«Сука, так жизнь просплю», — пишу я в шесть утра,
+и это самый честный мой за этот месяц текст. И мат.
 
 [Chorus]
 Я как будто умираю и воскресаю одновременно,

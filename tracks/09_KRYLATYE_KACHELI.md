@@ -11,12 +11,12 @@
 
 **Styles:**
 ```
-extreme dynamic contrast, metalcore blast beat verses cutting into lo-fi piano ballad, music box intro, harsh screamed male vocal alternating with soft whispered clean vocal, russian language, 190 bpm to 70 bpm sudden switches, post-hardcore, cinematic strings, tape stop transitions, huge melodic chorus
+extreme dynamic contrast, metalcore blast beat verses cutting into lo-fi piano ballad, music box intro, harsh shouted hoarse male voice, cracking throat, live room take alternating with soft whispered clean vocal, russian language, 190 bpm to 70 bpm sudden switches, post-hardcore, cinematic strings, tape stop transitions, huge melodic chorus, natural unprocessed human voice, close-mic one-take feel, audible breaths, slight rasp and cracks, analog tape warmth, no autotune
 ```
 
 **Exclude styles:**
 ```
-steady tempo, dance, comedy, jazz, reggae, ambient only
+steady tempo, dance, comedy, jazz, reggae, ambient only, autotune, vocoder, robotic vocal, synthetic AI voice, over-processed vocals, pitch-corrected, digital sheen
 ```
 
 | Поле | Значение |
@@ -52,8 +52,8 @@ metalcore + piano ballad (гибрид) · post-hardcore · progressive metal ·
 
 [Verse 1: blast beat, screamed, distorted]
 ПЛЮС ПЯТЬСОТ! СКРИН В ЧАТ! КРАСАВА! ЗАНОС!
-ДВА ДНЯ ЗАВОЗА ЭПИЧНОГО! МЫ ЖИВЁМ! МЫ ЗДЕСЬ!
-ИСПАНИЯ РАЗЪЕБАЛА! У ЛЁШИ ИСТЕРИКА!
+БЛЯТЬ! ДВА ДНЯ ЗАВОЗА ЭПИЧНОГО! МЫ ЖИВЁМ!
+ИСПАНИЯ РАЗЪЕБАЛА! ЕБАТЬ, У ЛЁШИ ИСТЕРИКА!
 ПОКА ДАЮТ — БЕРЁМ! ПОКА ГОРИТ — ГОРИМ!
 
 [Verse 1b: tape stop, instant cut to piano and whisper]
@@ -96,7 +96,7 @@ metalcore + piano ballad (гибрид) · post-hardcore · progressive metal ·
 — Жизнь.
 
 [Verse 4: heaviest part, screamed]
-ДВА ДНЯ ЗАВОЗА! ДВА ДНЯ ОГНЯ! ДВА ДНЯ, ЧТО МЫ ЖИВЫ!
+БЛЯТЬ, ДВА ДНЯ ЗАВОЗА! ДВА ДНЯ ОГНЯ! ДВА ДНЯ, ЧТО МЫ ЖИВЫ!
 
 [Verse 4b: cut to almost nothing]
 ...и я не понимаю, на просмотр чего
@@ -118,6 +118,3 @@ metalcore + piano ballad (гибрид) · post-hardcore · progressive metal ·
 
 [Outro: single music box note, tape stops]
 ```
-
-### Правка при отказе Suno
-`РАЗЪЕБАЛА` → `РАЗНЕСЛА` · `ухуярить` → `угробить`.

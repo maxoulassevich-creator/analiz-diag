@@ -9,20 +9,22 @@
 
 **Styles:**
 ```
-darksynth, synthwave, post-punk, cold wave, analog arpeggiator, gated reverb drums, chorus-drenched bass guitar, detached male baritone vocal, russian language, 112 bpm, night drive, tape saturation, melancholic major-minor, wide stereo pads
+darksynth, synthwave, post-punk, cold wave, analog arpeggiator, gated reverb drums, chorus-drenched bass guitar, detached male baritone vocal, russian language, 112 bpm, night drive, tape saturation, melancholic major-minor, wide stereo pads, natural unprocessed human voice, close-mic one-take feel, audible breaths, slight rasp and cracks, analog tape warmth, no autotune
 ```
 
 **Exclude styles:**
 ```
-metal, distortion guitars, rap, screaming, orchestral, folk, upbeat dance
+metal, distortion guitars, rap, screaming, orchestral, folk, upbeat dance, autotune, vocoder, robotic vocal, synthetic AI voice, over-processed vocals, pitch-corrected, digital sheen
 ```
 
 | Поле | Значение |
 |---|---|
-| Vocal Gender | **Male** |
+| Vocal Gender | **Female** — см. примечание |
 | Weirdness | **35%** |
 | Style Influence | **80%** |
 | Duration | Custom **3:00** |
+
+> **Про голос:** изначально трек писался под мужской баритон, но synthwave с женским вокалом — один из самых «живых» режимов Suno, а текст здесь коллективный (все имена в третьем лице) и от смены пола не ломается. Поэтому рекомендация — **Female**. Если хочется мужской: поставьте `Male` и замените в Styles `detached male baritone vocal` на `detached male baritone, weathered and breathy, singing quietly`.
 
 ## Подходящие жанры
 darksynth · synthwave / outrun · post-punk · coldwave · dream pop (тёмный) · witch house (для бриджа) · dark disco · minimal wave · shoegaze-synth · «ночная смена» (свой тег)
@@ -62,10 +64,10 @@ darksynth · synthwave / outrun · post-punk · coldwave · dream pop (тёмн�
 Пиши мне в три часа — я это время и люблю.
 
 [Verse 3: same groove, quieter]
-Я эти ваши режимы давно послал во тьму,
-мне через час на смену — и какое, к чёрту, спать.
-Я высыпаюсь за два часа, не знаю почему,
-и говорю себе: «Так жизнь просплю» — и не иду ложиться. Опять.
+Я эти ваши режимы сна давно в рот ебал,
+мне через час на смену — и какое нахуй спать.
+Я высыпаюсь за два часа — я так натренировал.
+Восемь лет бессонницы. Кому? Не хочешь взять?
 
 [Chorus]
 Мы все ночные твари — у нас с тобой один режим:
