@@ -1,0 +1,8394 @@
+{
+ "days": [
+  {
+   "date": "2026-07-01",
+   "weekday": "ср",
+   "messages": 377,
+   "authors": 23,
+   "chars": 12393,
+   "night_msgs": 102,
+   "replies": 192,
+   "media": 59,
+   "voice": 0,
+   "photos": 16,
+   "stickers": 12,
+   "reactions": 23,
+   "top_reactions": [
+    [
+     "😁",
+     7
+    ],
+    [
+     "❤",
+     6
+    ],
+    [
+     "🔥",
+     4
+    ],
+    [
+     "👍",
+     3
+    ],
+    [
+     "🕊",
+     2
+    ]
+   ],
+   "peak_10min": 49,
+   "pain_hits": 6,
+   "rage_hits": 28,
+   "joy_hits": 12741,
+   "gamble_hits": 20,
+   "top_authors": [
+    [
+     "Gojō Satoru",
+     74
+    ],
+    [
+     "Тёмный Жрец",
+     59
+    ],
+    [
+     "Ded Jawerssa",
+     56
+    ],
+    [
+     "Владимир",
+     40
+    ],
+    [
+     "Ігор",
+     38
+    ],
+    [
+     "TevolCors (Данил)",
+     36
+    ],
+    [
+     "Михалец",
+     16
+    ],
+    [
+     "ᅠ ᅠ❤️‍🩹",
+     12
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-02",
+   "weekday": "чт",
+   "messages": 344,
+   "authors": 29,
+   "chars": 10181,
+   "night_msgs": 63,
+   "replies": 136,
+   "media": 26,
+   "voice": 0,
+   "photos": 12,
+   "stickers": 7,
+   "reactions": 21,
+   "top_reactions": [
+    [
+     "😁",
+     7
+    ],
+    [
+     "🔥",
+     5
+    ],
+    [
+     "🤣",
+     3
+    ],
+    [
+     "❤",
+     2
+    ],
+    [
+     "👍",
+     2
+    ]
+   ],
+   "peak_10min": 52,
+   "pain_hits": 11,
+   "rage_hits": 23,
+   "joy_hits": 10442,
+   "gamble_hits": 10,
+   "top_authors": [
+    [
+     "Ded Jawerssa",
+     100
+    ],
+    [
+     "Ігор",
+     60
+    ],
+    [
+     "Василий",
+     38
+    ],
+    [
+     "ᅠ ᅠ❤️‍🩹",
+     33
+    ],
+    [
+     "Dank1n",
+     27
+    ],
+    [
+     "Александр",
+     14
+    ],
+    [
+     "Анастасия",
+     10
+    ],
+    [
+     "Thinking",
+     8
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-03",
+   "weekday": "пт",
+   "messages": 361,
+   "authors": 23,
+   "chars": 9027,
+   "night_msgs": 2,
+   "replies": 189,
+   "media": 47,
+   "voice": 23,
+   "photos": 9,
+   "stickers": 3,
+   "reactions": 38,
+   "top_reactions": [
+    [
+     "😁",
+     13
+    ],
+    [
+     "🤣",
+     12
+    ],
+    [
+     "❤",
+     5
+    ],
+    [
+     "👍",
+     4
+    ],
+    [
+     "👀",
+     1
+    ]
+   ],
+   "peak_10min": 33,
+   "pain_hits": 8,
+   "rage_hits": 20,
+   "joy_hits": 9348,
+   "gamble_hits": 2,
+   "top_authors": [
+    [
+     "Ded Jawerssa",
+     73
+    ],
+    [
+     "Ігор",
+     50
+    ],
+    [
+     "Kabir_Labib_LTG",
+     49
+    ],
+    [
+     "Михалец",
+     31
+    ],
+    [
+     "Альт 🇷🇸",
+     29
+    ],
+    [
+     "Маша",
+     21
+    ],
+    [
+     "Хинкаль Хинкалевич",
+     17
+    ],
+    [
+     "ଦୁ ness ଖ ྀི",
+     15
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-04",
+   "weekday": "сб",
+   "messages": 949,
+   "authors": 34,
+   "chars": 25559,
+   "night_msgs": 295,
+   "replies": 441,
+   "media": 51,
+   "voice": 0,
+   "photos": 23,
+   "stickers": 4,
+   "reactions": 56,
+   "top_reactions": [
+    [
+     "😁",
+     14
+    ],
+    [
+     "👍",
+     7
+    ],
+    [
+     "🤣",
+     7
+    ],
+    [
+     "❤",
+     6
+    ],
+    [
+     "🔥",
+     4
+    ]
+   ],
+   "peak_10min": 95,
+   "pain_hits": 10,
+   "rage_hits": 76,
+   "joy_hits": 26322,
+   "gamble_hits": 4,
+   "top_authors": [
+    [
+     "Ded Jawerssa",
+     213
+    ],
+    [
+     "Ігор",
+     180
+    ],
+    [
+     "Роман (Chiki_briki)",
+     79
+    ],
+    [
+     "Kabir_Labib_LTG",
+     74
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     55
+    ],
+    [
+     "Gojō Satoru",
+     49
+    ],
+    [
+     "Михалец",
+     43
+    ],
+    [
+     "Альт 🇷🇸",
+     42
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-05",
+   "weekday": "вс",
+   "messages": 2541,
+   "authors": 47,
+   "chars": 67686,
+   "night_msgs": 617,
+   "replies": 1239,
+   "media": 122,
+   "voice": 8,
+   "photos": 48,
+   "stickers": 35,
+   "reactions": 257,
+   "top_reactions": [
+    [
+     "😁",
+     80
+    ],
+    [
+     "🤣",
+     66
+    ],
+    [
+     "💯",
+     32
+    ],
+    [
+     "❤",
+     15
+    ],
+    [
+     "👀",
+     13
+    ]
+   ],
+   "peak_10min": 99,
+   "pain_hits": 43,
+   "rage_hits": 335,
+   "joy_hits": 69763,
+   "gamble_hits": 3,
+   "top_authors": [
+    [
+     "Ded Jawerssa",
+     501
+    ],
+    [
+     "Ігор",
+     467
+    ],
+    [
+     "Kabir_Labib_LTG",
+     325
+    ],
+    [
+     "𝐊𝐑𝐎𝐕𝐀𝐖𝐘 𝐈𝐒𝐏𝐎𝐋𝐈𝐍",
+     174
+    ],
+    [
+     "Танечка🦢",
+     135
+    ],
+    [
+     "Dank1n",
+     129
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     106
+    ],
+    [
+     "Василий",
+     94
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-06",
+   "weekday": "пн",
+   "messages": 924,
+   "authors": 35,
+   "chars": 24518,
+   "night_msgs": 182,
+   "replies": 477,
+   "media": 130,
+   "voice": 0,
+   "photos": 40,
+   "stickers": 59,
+   "reactions": 52,
+   "top_reactions": [
+    [
+     "😁",
+     13
+    ],
+    [
+     "🤣",
+     12
+    ],
+    [
+     "❤",
+     9
+    ],
+    [
+     "👍",
+     8
+    ],
+    [
+     "🔥",
+     5
+    ]
+   ],
+   "peak_10min": 83,
+   "pain_hits": 11,
+   "rage_hits": 75,
+   "joy_hits": 25366,
+   "gamble_hits": 18,
+   "top_authors": [
+    [
+     "Kabir_Labib_LTG",
+     234
+    ],
+    [
+     "Ded Jawerssa",
+     159
+    ],
+    [
+     "Михалец",
+     121
+    ],
+    [
+     "Gojō Satoru",
+     115
+    ],
+    [
+     "Ігор",
+     50
+    ],
+    [
+     "Альт 🇷🇸",
+     36
+    ],
+    [
+     "Pphilinan",
+     32
+    ],
+    [
+     "Тёмный Жрец",
+     32
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "weekday": "вт",
+   "messages": 1014,
+   "authors": 29,
+   "chars": 27166,
+   "night_msgs": 527,
+   "replies": 493,
+   "media": 74,
+   "voice": 15,
+   "photos": 25,
+   "stickers": 25,
+   "reactions": 54,
+   "top_reactions": [
+    [
+     "😁",
+     21
+    ],
+    [
+     "❤",
+     11
+    ],
+    [
+     "🤣",
+     11
+    ],
+    [
+     "👍",
+     4
+    ],
+    [
+     "🔥",
+     4
+    ]
+   ],
+   "peak_10min": 104,
+   "pain_hits": 17,
+   "rage_hits": 77,
+   "joy_hits": 28104,
+   "gamble_hits": 5,
+   "top_authors": [
+    [
+     "Ded Jawerssa",
+     411
+    ],
+    [
+     "Kabir_Labib_LTG",
+     151
+    ],
+    [
+     "Ігор",
+     121
+    ],
+    [
+     "Gojō Satoru",
+     66
+    ],
+    [
+     "Анастасия",
+     38
+    ],
+    [
+     "Kapi",
+     37
+    ],
+    [
+     "Роман (Chiki_briki)",
+     30
+    ],
+    [
+     "~",
+     23
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-08",
+   "weekday": "ср",
+   "messages": 1087,
+   "authors": 36,
+   "chars": 28081,
+   "night_msgs": 63,
+   "replies": 734,
+   "media": 86,
+   "voice": 14,
+   "photos": 12,
+   "stickers": 38,
+   "reactions": 149,
+   "top_reactions": [
+    [
+     "😁",
+     67
+    ],
+    [
+     "🤣",
+     29
+    ],
+    [
+     "👋",
+     12
+    ],
+    [
+     "🔥",
+     9
+    ],
+    [
+     "❤",
+     6
+    ]
+   ],
+   "peak_10min": 72,
+   "pain_hits": 14,
+   "rage_hits": 54,
+   "joy_hits": 29050,
+   "gamble_hits": 1,
+   "top_authors": [
+    [
+     "Ded Jawerssa",
+     222
+    ],
+    [
+     "Волчица",
+     193
+    ],
+    [
+     "OweniXX",
+     181
+    ],
+    [
+     "Kabir_Labib_LTG",
+     91
+    ],
+    [
+     "Ігор",
+     81
+    ],
+    [
+     "Алексей Манул",
+     41
+    ],
+    [
+     "Gojō Satoru",
+     32
+    ],
+    [
+     "Роман (Chiki_briki)",
+     31
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-09",
+   "weekday": "чт",
+   "messages": 150,
+   "authors": 11,
+   "chars": 3525,
+   "night_msgs": 78,
+   "replies": 68,
+   "media": 13,
+   "voice": 4,
+   "photos": 4,
+   "stickers": 1,
+   "reactions": 6,
+   "top_reactions": [
+    [
+     "🤣",
+     4
+    ],
+    [
+     "❤‍🔥",
+     1
+    ],
+    [
+     "❤",
+     1
+    ]
+   ],
+   "peak_10min": 35,
+   "pain_hits": 4,
+   "rage_hits": 18,
+   "joy_hits": 3665,
+   "gamble_hits": 6,
+   "top_authors": [
+    [
+     "Ded Jawerssa",
+     50
+    ],
+    [
+     "Ігор",
+     36
+    ],
+    [
+     "ᅠ ᅠ❤️‍🩹",
+     14
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     14
+    ],
+    [
+     "Kabir_Labib_LTG",
+     13
+    ],
+    [
+     "Алина Сергеевна",
+     10
+    ],
+    [
+     "Маша",
+     7
+    ],
+    [
+     "Vzm_Ivan",
+     2
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-10",
+   "weekday": "пт",
+   "messages": 442,
+   "authors": 21,
+   "chars": 10532,
+   "night_msgs": 51,
+   "replies": 271,
+   "media": 26,
+   "voice": 0,
+   "photos": 2,
+   "stickers": 13,
+   "reactions": 56,
+   "top_reactions": [
+    [
+     "😁",
+     21
+    ],
+    [
+     "🤣",
+     14
+    ],
+    [
+     "👋",
+     7
+    ],
+    [
+     "❤",
+     4
+    ],
+    [
+     "❤‍🔥",
+     2
+    ]
+   ],
+   "peak_10min": 73,
+   "pain_hits": 11,
+   "rage_hits": 23,
+   "joy_hits": 10898,
+   "gamble_hits": 2,
+   "top_authors": [
+    [
+     "Ded Jawerssa",
+     108
+    ],
+    [
+     "Ігор",
+     79
+    ],
+    [
+     "Волчица",
+     53
+    ],
+    [
+     "Kabir_Labib_LTG",
+     46
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     35
+    ],
+    [
+     "Алина Сергеевна",
+     25
+    ],
+    [
+     "Анастасия",
+     17
+    ],
+    [
+     "Роман (Chiki_briki)",
+     16
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-11",
+   "weekday": "сб",
+   "messages": 1248,
+   "authors": 33,
+   "chars": 34852,
+   "night_msgs": 679,
+   "replies": 756,
+   "media": 80,
+   "voice": 22,
+   "photos": 21,
+   "stickers": 16,
+   "reactions": 97,
+   "top_reactions": [
+    [
+     "😁",
+     37
+    ],
+    [
+     "❤",
+     18
+    ],
+    [
+     "🤣",
+     18
+    ],
+    [
+     "👋",
+     9
+    ],
+    [
+     "🔥",
+     5
+    ]
+   ],
+   "peak_10min": 90,
+   "pain_hits": 22,
+   "rage_hits": 80,
+   "joy_hits": 36002,
+   "gamble_hits": 17,
+   "top_authors": [
+    [
+     "Ded Jawerssa",
+     372
+    ],
+    [
+     "Kabir_Labib_LTG",
+     216
+    ],
+    [
+     "Ігор",
+     170
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     156
+    ],
+    [
+     "Волчица",
+     95
+    ],
+    [
+     "Алексей Манул",
+     38
+    ],
+    [
+     "Маша",
+     38
+    ],
+    [
+     "Анастасия",
+     28
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-12",
+   "weekday": "вс",
+   "messages": 2123,
+   "authors": 32,
+   "chars": 63733,
+   "night_msgs": 391,
+   "replies": 1396,
+   "media": 140,
+   "voice": 27,
+   "photos": 25,
+   "stickers": 67,
+   "reactions": 214,
+   "top_reactions": [
+    [
+     "😁",
+     71
+    ],
+    [
+     "🤣",
+     50
+    ],
+    [
+     "👋",
+     32
+    ],
+    [
+     "❤",
+     31
+    ],
+    [
+     "🕊",
+     6
+    ]
+   ],
+   "peak_10min": 80,
+   "pain_hits": 49,
+   "rage_hits": 238,
+   "joy_hits": 65685,
+   "gamble_hits": 14,
+   "top_authors": [
+    [
+     "Ded Jawerssa",
+     560
+    ],
+    [
+     "Kabir_Labib_LTG",
+     437
+    ],
+    [
+     "Ігор",
+     322
+    ],
+    [
+     "Волчица",
+     289
+    ],
+    [
+     "Gojō Satoru",
+     84
+    ],
+    [
+     "Михалец",
+     71
+    ],
+    [
+     "~",
+     68
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     61
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "weekday": "пн",
+   "messages": 664,
+   "authors": 24,
+   "chars": 19002,
+   "night_msgs": 16,
+   "replies": 415,
+   "media": 76,
+   "voice": 3,
+   "photos": 28,
+   "stickers": 26,
+   "reactions": 144,
+   "top_reactions": [
+    [
+     "😁",
+     39
+    ],
+    [
+     "🤣",
+     37
+    ],
+    [
+     "👋",
+     20
+    ],
+    [
+     "👍",
+     8
+    ],
+    [
+     "❤",
+     8
+    ]
+   ],
+   "peak_10min": 81,
+   "pain_hits": 14,
+   "rage_hits": 31,
+   "joy_hits": 19609,
+   "gamble_hits": 2,
+   "top_authors": [
+    [
+     "Kabir_Labib_LTG",
+     162
+    ],
+    [
+     "Волчица",
+     134
+    ],
+    [
+     "Олег",
+     98
+    ],
+    [
+     "Ded Jawerssa",
+     65
+    ],
+    [
+     "Крупин",
+     53
+    ],
+    [
+     "Ігор",
+     32
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     26
+    ],
+    [
+     "Kapi",
+     23
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "weekday": "вт",
+   "messages": 80,
+   "authors": 17,
+   "chars": 2106,
+   "night_msgs": 25,
+   "replies": 37,
+   "media": 24,
+   "voice": 0,
+   "photos": 4,
+   "stickers": 13,
+   "reactions": 8,
+   "top_reactions": [
+    [
+     "🤣",
+     2
+    ],
+    [
+     "🔥",
+     2
+    ],
+    [
+     "❤‍🔥",
+     2
+    ],
+    [
+     "😁",
+     1
+    ],
+    [
+     "❤",
+     1
+    ]
+   ],
+   "peak_10min": 11,
+   "pain_hits": 2,
+   "rage_hits": 4,
+   "joy_hits": 2171,
+   "gamble_hits": 12,
+   "top_authors": [
+    [
+     "Капитан джек воробей 🔴⚪",
+     11
+    ],
+    [
+     "Ded Jawerssa",
+     11
+    ],
+    [
+     "Ігор",
+     11
+    ],
+    [
+     "Kabir_Labib_LTG",
+     10
+    ],
+    [
+     "Крупин",
+     9
+    ],
+    [
+     "Berkut_Press",
+     5
+    ],
+    [
+     "Gojō Satoru",
+     5
+    ],
+    [
+     "Роман (Chiki_briki)",
+     4
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "weekday": "ср",
+   "messages": 896,
+   "authors": 31,
+   "chars": 21520,
+   "night_msgs": 556,
+   "replies": 538,
+   "media": 123,
+   "voice": 4,
+   "photos": 23,
+   "stickers": 76,
+   "reactions": 81,
+   "top_reactions": [
+    [
+     "🤣",
+     20
+    ],
+    [
+     "😁",
+     15
+    ],
+    [
+     "👋",
+     13
+    ],
+    [
+     "❤",
+     13
+    ],
+    [
+     "🌚",
+     7
+    ]
+   ],
+   "peak_10min": 84,
+   "pain_hits": 9,
+   "rage_hits": 57,
+   "joy_hits": 22361,
+   "gamble_hits": 18,
+   "top_authors": [
+    [
+     "Kabir_Labib_LTG",
+     173
+    ],
+    [
+     "Дмитрий",
+     158
+    ],
+    [
+     "Ded Jawerssa",
+     99
+    ],
+    [
+     "Волчица",
+     79
+    ],
+    [
+     "Крупин",
+     73
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     67
+    ],
+    [
+     "Immerker",
+     60
+    ],
+    [
+     "Ігор",
+     54
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "weekday": "чт",
+   "messages": 636,
+   "authors": 28,
+   "chars": 23058,
+   "night_msgs": 414,
+   "replies": 295,
+   "media": 78,
+   "voice": 0,
+   "photos": 17,
+   "stickers": 40,
+   "reactions": 31,
+   "top_reactions": [
+    [
+     "😁",
+     6
+    ],
+    [
+     "🤣",
+     6
+    ],
+    [
+     "❤",
+     5
+    ],
+    [
+     "🔥",
+     3
+    ],
+    [
+     "👍",
+     3
+    ]
+   ],
+   "peak_10min": 51,
+   "pain_hits": 14,
+   "rage_hits": 39,
+   "joy_hits": 23585,
+   "gamble_hits": 17,
+   "top_authors": [
+    [
+     "Капитан джек воробей 🔴⚪",
+     196
+    ],
+    [
+     "Ded Jawerssa",
+     153
+    ],
+    [
+     "Дмитрий",
+     70
+    ],
+    [
+     "Ігор",
+     56
+    ],
+    [
+     "Крупин",
+     31
+    ],
+    [
+     "Kabir_Labib_LTG",
+     29
+    ],
+    [
+     "Волчица",
+     22
+    ],
+    [
+     "Nikita",
+     14
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-17",
+   "weekday": "пт",
+   "messages": 170,
+   "authors": 28,
+   "chars": 6930,
+   "night_msgs": 4,
+   "replies": 79,
+   "media": 27,
+   "voice": 0,
+   "photos": 11,
+   "stickers": 7,
+   "reactions": 27,
+   "top_reactions": [
+    [
+     "🤣",
+     14
+    ],
+    [
+     "🔥",
+     3
+    ],
+    [
+     "😁",
+     3
+    ],
+    [
+     "👏",
+     3
+    ],
+    [
+     "❤",
+     2
+    ]
+   ],
+   "peak_10min": 18,
+   "pain_hits": 5,
+   "rage_hits": 12,
+   "joy_hits": 7053,
+   "gamble_hits": 20,
+   "top_authors": [
+    [
+     "Капитан джек воробей 🔴⚪",
+     43
+    ],
+    [
+     "Крупин",
+     24
+    ],
+    [
+     "Дмитрий",
+     18
+    ],
+    [
+     "Kabir_Labib_LTG",
+     17
+    ],
+    [
+     "Ded Jawerssa",
+     11
+    ],
+    [
+     "𝕽𝖞𝖔𝖌𝖎𝕾𝖍𝖎𝖐𝖎",
+     11
+    ],
+    [
+     "Bogdan Makushev",
+     7
+    ],
+    [
+     "agent 228",
+     5
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-18",
+   "weekday": "сб",
+   "messages": 64,
+   "authors": 17,
+   "chars": 2660,
+   "night_msgs": 8,
+   "replies": 38,
+   "media": 12,
+   "voice": 1,
+   "photos": 4,
+   "stickers": 2,
+   "reactions": 15,
+   "top_reactions": [
+    [
+     "❤",
+     3
+    ],
+    [
+     "😁",
+     3
+    ],
+    [
+     "👍",
+     2
+    ],
+    [
+     "🌚",
+     2
+    ],
+    [
+     "🤣",
+     2
+    ]
+   ],
+   "peak_10min": 14,
+   "pain_hits": 2,
+   "rage_hits": 5,
+   "joy_hits": 2718,
+   "gamble_hits": 5,
+   "top_authors": [
+    [
+     "Капитан джек воробей 🔴⚪",
+     11
+    ],
+    [
+     "Ded Jawerssa",
+     10
+    ],
+    [
+     "Дмитрий",
+     9
+    ],
+    [
+     "Ігор",
+     6
+    ],
+    [
+     ".",
+     6
+    ],
+    [
+     "Михалец",
+     5
+    ],
+    [
+     "SabinaMiss",
+     3
+    ],
+    [
+     "Крупин",
+     2
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-19",
+   "weekday": "вс",
+   "messages": 1633,
+   "authors": 99,
+   "chars": 45773,
+   "night_msgs": 332,
+   "replies": 906,
+   "media": 110,
+   "voice": 2,
+   "photos": 51,
+   "stickers": 38,
+   "reactions": 145,
+   "top_reactions": [
+    [
+     "❤",
+     36
+    ],
+    [
+     "😁",
+     30
+    ],
+    [
+     "🤣",
+     21
+    ],
+    [
+     "👍",
+     13
+    ],
+    [
+     "🔥",
+     13
+    ]
+   ],
+   "peak_10min": 155,
+   "pain_hits": 25,
+   "rage_hits": 97,
+   "joy_hits": 47103,
+   "gamble_hits": 58,
+   "top_authors": [
+    [
+     "Ася",
+     182
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     171
+    ],
+    [
+     "Ded Jawerssa",
+     168
+    ],
+    [
+     "Ігор",
+     160
+    ],
+    [
+     "Дмитрий",
+     95
+    ],
+    [
+     "Волчица",
+     87
+    ],
+    [
+     "RK | SAMURAY",
+     63
+    ],
+    [
+     "𝐌𝐫.𝐏𝐞𝐩𝐞",
+     63
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "weekday": "пн",
+   "messages": 2477,
+   "authors": 51,
+   "chars": 81614,
+   "night_msgs": 1470,
+   "replies": 1300,
+   "media": 90,
+   "voice": 1,
+   "photos": 40,
+   "stickers": 26,
+   "reactions": 116,
+   "top_reactions": [
+    [
+     "❤",
+     28
+    ],
+    [
+     "😁",
+     24
+    ],
+    [
+     "🤣",
+     17
+    ],
+    [
+     "👋",
+     12
+    ],
+    [
+     "💯",
+     6
+    ]
+   ],
+   "peak_10min": 148,
+   "pain_hits": 71,
+   "rage_hits": 149,
+   "joy_hits": 83803,
+   "gamble_hits": 37,
+   "top_authors": [
+    [
+     "Ася",
+     663
+    ],
+    [
+     "Ded Jawerssa",
+     461
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     404
+    ],
+    [
+     "Ігор",
+     147
+    ],
+    [
+     "𝐌𝐫.𝐏𝐞𝐩𝐞",
+     110
+    ],
+    [
+     "𝕱𝖑𝖊𝖝𝖚𝖘𝕬𝖛𝕲𝖒",
+     110
+    ],
+    [
+     "Gojō Satoru",
+     79
+    ],
+    [
+     "Крупин",
+     66
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "weekday": "вт",
+   "messages": 1052,
+   "authors": 18,
+   "chars": 34319,
+   "night_msgs": 367,
+   "replies": 507,
+   "media": 109,
+   "voice": 3,
+   "photos": 79,
+   "stickers": 13,
+   "reactions": 66,
+   "top_reactions": [
+    [
+     "🌚",
+     18
+    ],
+    [
+     "❤",
+     12
+    ],
+    [
+     "😁",
+     8
+    ],
+    [
+     "🤝",
+     5
+    ],
+    [
+     "🤔",
+     5
+    ]
+   ],
+   "peak_10min": 90,
+   "pain_hits": 16,
+   "rage_hits": 41,
+   "joy_hits": 35280,
+   "gamble_hits": 6,
+   "top_authors": [
+    [
+     "Ася",
+     427
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     243
+    ],
+    [
+     "Крупин",
+     206
+    ],
+    [
+     "Ded Jawerssa",
+     39
+    ],
+    [
+     "Gojō Satoru",
+     21
+    ],
+    [
+     "Aleksandr Kulikov",
+     20
+    ],
+    [
+     "Волчица",
+     20
+    ],
+    [
+     "agent 228",
+     19
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "weekday": "ср",
+   "messages": 719,
+   "authors": 27,
+   "chars": 20394,
+   "night_msgs": 407,
+   "replies": 394,
+   "media": 40,
+   "voice": 1,
+   "photos": 7,
+   "stickers": 21,
+   "reactions": 59,
+   "top_reactions": [
+    [
+     "🤣",
+     22
+    ],
+    [
+     "❤",
+     12
+    ],
+    [
+     "🌚",
+     7
+    ],
+    [
+     "😁",
+     6
+    ],
+    [
+     "👀",
+     4
+    ]
+   ],
+   "peak_10min": 72,
+   "pain_hits": 24,
+   "rage_hits": 47,
+   "joy_hits": 21036,
+   "gamble_hits": 11,
+   "top_authors": [
+    [
+     "Ася",
+     179
+    ],
+    [
+     "Ігор",
+     107
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     100
+    ],
+    [
+     "Крупин",
+     95
+    ],
+    [
+     "Kabir_Labib_LTG",
+     84
+    ],
+    [
+     "Gojō Satoru",
+     28
+    ],
+    [
+     "agent 228",
+     28
+    ],
+    [
+     "Ded Jawerssa",
+     24
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "weekday": "чт",
+   "messages": 1753,
+   "authors": 34,
+   "chars": 41055,
+   "night_msgs": 560,
+   "replies": 1032,
+   "media": 110,
+   "voice": 7,
+   "photos": 24,
+   "stickers": 50,
+   "reactions": 159,
+   "top_reactions": [
+    [
+     "🤣",
+     42
+    ],
+    [
+     "😁",
+     33
+    ],
+    [
+     "❤",
+     22
+    ],
+    [
+     "🌚",
+     15
+    ],
+    [
+     "👋",
+     10
+    ]
+   ],
+   "peak_10min": 122,
+   "pain_hits": 21,
+   "rage_hits": 111,
+   "joy_hits": 42569,
+   "gamble_hits": 21,
+   "top_authors": [
+    [
+     "Ася",
+     328
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     207
+    ],
+    [
+     "Ded Jawerssa",
+     195
+    ],
+    [
+     "Ігор",
+     169
+    ],
+    [
+     "Крупин",
+     164
+    ],
+    [
+     "Kapi",
+     126
+    ],
+    [
+     "Волчица",
+     100
+    ],
+    [
+     "𝕱𝖑𝖊𝖝𝖚𝖘𝕬𝖛𝕲𝖒",
+     96
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "weekday": "пт",
+   "messages": 751,
+   "authors": 31,
+   "chars": 22679,
+   "night_msgs": 184,
+   "replies": 387,
+   "media": 64,
+   "voice": 7,
+   "photos": 12,
+   "stickers": 34,
+   "reactions": 74,
+   "top_reactions": [
+    [
+     "❤",
+     18
+    ],
+    [
+     "😁",
+     11
+    ],
+    [
+     "💯",
+     6
+    ],
+    [
+     "🙏",
+     5
+    ],
+    [
+     "🔥",
+     4
+    ]
+   ],
+   "peak_10min": 62,
+   "pain_hits": 19,
+   "rage_hits": 34,
+   "joy_hits": 23344,
+   "gamble_hits": 8,
+   "top_authors": [
+    [
+     "Ded Jawerssa",
+     152
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     144
+    ],
+    [
+     "Крупин",
+     86
+    ],
+    [
+     "Ася",
+     83
+    ],
+    [
+     "Танечка🦢",
+     61
+    ],
+    [
+     "Kapi",
+     46
+    ],
+    [
+     "Ігор",
+     29
+    ],
+    [
+     "Маша",
+     29
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-25",
+   "weekday": "сб",
+   "messages": 1024,
+   "authors": 27,
+   "chars": 29366,
+   "night_msgs": 179,
+   "replies": 581,
+   "media": 57,
+   "voice": 5,
+   "photos": 19,
+   "stickers": 22,
+   "reactions": 67,
+   "top_reactions": [
+    [
+     "❤",
+     14
+    ],
+    [
+     "🤣",
+     13
+    ],
+    [
+     "😁",
+     11
+    ],
+    [
+     "🌚",
+     8
+    ],
+    [
+     "🤝",
+     6
+    ]
+   ],
+   "peak_10min": 81,
+   "pain_hits": 19,
+   "rage_hits": 61,
+   "joy_hits": 30292,
+   "gamble_hits": 3,
+   "top_authors": [
+    [
+     "Ася",
+     211
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     186
+    ],
+    [
+     "Ігор",
+     98
+    ],
+    [
+     "Крупин",
+     91
+    ],
+    [
+     "Gojō Satoru",
+     73
+    ],
+    [
+     "agent 228",
+     65
+    ],
+    [
+     "Ded Jawerssa",
+     56
+    ],
+    [
+     "Katerina",
+     40
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-26",
+   "weekday": "вс",
+   "messages": 1191,
+   "authors": 30,
+   "chars": 35886,
+   "night_msgs": 122,
+   "replies": 637,
+   "media": 106,
+   "voice": 7,
+   "photos": 45,
+   "stickers": 39,
+   "reactions": 136,
+   "top_reactions": [
+    [
+     "❤",
+     29
+    ],
+    [
+     "😁",
+     20
+    ],
+    [
+     "🤣",
+     13
+    ],
+    [
+     "🌚",
+     10
+    ],
+    [
+     "👍",
+     9
+    ]
+   ],
+   "peak_10min": 97,
+   "pain_hits": 26,
+   "rage_hits": 61,
+   "joy_hits": 36966,
+   "gamble_hits": 10,
+   "top_authors": [
+    [
+     "Капитан джек воробей 🔴⚪",
+     261
+    ],
+    [
+     "Иван",
+     232
+    ],
+    [
+     "Ася",
+     167
+    ],
+    [
+     "𝖆𝖇𝖔𝖛𝖊",
+     138
+    ],
+    [
+     "Крупин",
+     86
+    ],
+    [
+     "Ded Jawerssa",
+     47
+    ],
+    [
+     "Gojō Satoru",
+     45
+    ],
+    [
+     "Kabir_Labib_LTG",
+     36
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "weekday": "пн",
+   "messages": 1649,
+   "authors": 28,
+   "chars": 39298,
+   "night_msgs": 659,
+   "replies": 842,
+   "media": 95,
+   "voice": 15,
+   "photos": 30,
+   "stickers": 36,
+   "reactions": 122,
+   "top_reactions": [
+    [
+     "🤣",
+     43
+    ],
+    [
+     "😁",
+     17
+    ],
+    [
+     "❤",
+     15
+    ],
+    [
+     "👀",
+     8
+    ],
+    [
+     "🌚",
+     8
+    ]
+   ],
+   "peak_10min": 76,
+   "pain_hits": 28,
+   "rage_hits": 127,
+   "joy_hits": 40773,
+   "gamble_hits": 4,
+   "top_authors": [
+    [
+     "Ася",
+     584
+    ],
+    [
+     "Ігор",
+     214
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     187
+    ],
+    [
+     "𝖆𝖇𝖔𝖛𝖊",
+     164
+    ],
+    [
+     "Kabir_Labib_LTG",
+     144
+    ],
+    [
+     "Крупин",
+     87
+    ],
+    [
+     "Gojō Satoru",
+     67
+    ],
+    [
+     "•ᴜɴᴄᴇʟʟᴨуньᴋ•",
+     47
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "weekday": "вт",
+   "messages": 2403,
+   "authors": 32,
+   "chars": 64546,
+   "night_msgs": 582,
+   "replies": 1190,
+   "media": 194,
+   "voice": 19,
+   "photos": 71,
+   "stickers": 50,
+   "reactions": 173,
+   "top_reactions": [
+    [
+     "🤣",
+     37
+    ],
+    [
+     "😁",
+     32
+    ],
+    [
+     "❤",
+     24
+    ],
+    [
+     "🌚",
+     14
+    ],
+    [
+     "👍",
+     11
+    ]
+   ],
+   "peak_10min": 85,
+   "pain_hits": 33,
+   "rage_hits": 151,
+   "joy_hits": 66671,
+   "gamble_hits": 9,
+   "top_authors": [
+    [
+     "Капитан джек воробей 🔴⚪",
+     477
+    ],
+    [
+     "Ася",
+     454
+    ],
+    [
+     "Ded Jawerssa",
+     360
+    ],
+    [
+     "Крупин",
+     306
+    ],
+    [
+     "𝖆𝖇𝖔𝖛𝖊",
+     271
+    ],
+    [
+     "Ігор",
+     118
+    ],
+    [
+     "Ins1der Developer",
+     87
+    ],
+    [
+     "Gojō Satoru",
+     45
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "weekday": "ср",
+   "messages": 889,
+   "authors": 34,
+   "chars": 23072,
+   "night_msgs": 253,
+   "replies": 433,
+   "media": 59,
+   "voice": 7,
+   "photos": 23,
+   "stickers": 20,
+   "reactions": 63,
+   "top_reactions": [
+    [
+     "🤣",
+     15
+    ],
+    [
+     "😁",
+     10
+    ],
+    [
+     "❤",
+     10
+    ],
+    [
+     "🔥",
+     4
+    ],
+    [
+     "🌚",
+     4
+    ]
+   ],
+   "peak_10min": 64,
+   "pain_hits": 11,
+   "rage_hits": 57,
+   "joy_hits": 23890,
+   "gamble_hits": 3,
+   "top_authors": [
+    [
+     "Ася",
+     209
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     157
+    ],
+    [
+     "Ігор",
+     106
+    ],
+    [
+     "Крупин",
+     80
+    ],
+    [
+     "Ded Jawerssa",
+     62
+    ],
+    [
+     "𝖆𝖇𝖔𝖛𝖊",
+     50
+    ],
+    [
+     "Kabir_Labib_LTG",
+     46
+    ],
+    [
+     "Gojō Satoru",
+     43
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "weekday": "чт",
+   "messages": 1613,
+   "authors": 34,
+   "chars": 45506,
+   "night_msgs": 269,
+   "replies": 979,
+   "media": 144,
+   "voice": 19,
+   "photos": 63,
+   "stickers": 31,
+   "reactions": 204,
+   "top_reactions": [
+    [
+     "🤣",
+     69
+    ],
+    [
+     "😁",
+     45
+    ],
+    [
+     "👀",
+     20
+    ],
+    [
+     "❤",
+     18
+    ],
+    [
+     "🔥",
+     8
+    ]
+   ],
+   "peak_10min": 95,
+   "pain_hits": 33,
+   "rage_hits": 116,
+   "joy_hits": 46969,
+   "gamble_hits": 6,
+   "top_authors": [
+    [
+     "Ася",
+     398
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     241
+    ],
+    [
+     "Ins1der Developer",
+     124
+    ],
+    [
+     "Крупин",
+     115
+    ],
+    [
+     "Алекс",
+     97
+    ],
+    [
+     "Nomad𖣠",
+     92
+    ],
+    [
+     "Ded Jawerssa",
+     89
+    ],
+    [
+     "Ігор",
+     89
+    ]
+   ]
+  },
+  {
+   "date": "2026-07-31",
+   "weekday": "пт",
+   "messages": 1531,
+   "authors": 41,
+   "chars": 34674,
+   "night_msgs": 15,
+   "replies": 833,
+   "media": 97,
+   "voice": 15,
+   "photos": 30,
+   "stickers": 20,
+   "reactions": 120,
+   "top_reactions": [
+    [
+     "🤣",
+     25
+    ],
+    [
+     "😁",
+     23
+    ],
+    [
+     "❤",
+     20
+    ],
+    [
+     "👀",
+     17
+    ],
+    [
+     "🔥",
+     13
+    ]
+   ],
+   "peak_10min": 84,
+   "pain_hits": 16,
+   "rage_hits": 56,
+   "joy_hits": 36056,
+   "gamble_hits": 23,
+   "top_authors": [
+    [
+     "Капитан джек воробей 🔴⚪",
+     358
+    ],
+    [
+     "Ася",
+     319
+    ],
+    [
+     "Крупин",
+     223
+    ],
+    [
+     "OweniXX",
+     151
+    ],
+    [
+     "Ins1der Developer",
+     143
+    ],
+    [
+     "ДС",
+     62
+    ],
+    [
+     "Ігор",
+     54
+    ],
+    [
+     "Иван",
+     34
+    ]
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "weekday": "сб",
+   "messages": 1717,
+   "authors": 39,
+   "chars": 55613,
+   "night_msgs": 1090,
+   "replies": 1050,
+   "media": 133,
+   "voice": 17,
+   "photos": 31,
+   "stickers": 32,
+   "reactions": 102,
+   "top_reactions": [
+    [
+     "🤣",
+     25
+    ],
+    [
+     "❤",
+     19
+    ],
+    [
+     "😁",
+     15
+    ],
+    [
+     "👍",
+     8
+    ],
+    [
+     "👀",
+     7
+    ]
+   ],
+   "peak_10min": 96,
+   "pain_hits": 30,
+   "rage_hits": 103,
+   "joy_hits": 57147,
+   "gamble_hits": 12,
+   "top_authors": [
+    [
+     "Капитан джек воробей 🔴⚪",
+     432
+    ],
+    [
+     "Ася",
+     305
+    ],
+    [
+     "Ігор",
+     121
+    ],
+    [
+     "Gojō Satoru",
+     109
+    ],
+    [
+     "Крупин",
+     104
+    ],
+    [
+     "Ins1der Developer",
+     103
+    ],
+    [
+     "Kabir_Labib_LTG",
+     102
+    ],
+    [
+     "Himera",
+     86
+    ]
+   ]
+  },
+  {
+   "date": "2026-08-02",
+   "weekday": "вс",
+   "messages": 1237,
+   "authors": 30,
+   "chars": 28785,
+   "night_msgs": 270,
+   "replies": 735,
+   "media": 81,
+   "voice": 1,
+   "photos": 19,
+   "stickers": 33,
+   "reactions": 83,
+   "top_reactions": [
+    [
+     "🤣",
+     21
+    ],
+    [
+     "😁",
+     21
+    ],
+    [
+     "🔥",
+     11
+    ],
+    [
+     "👍",
+     8
+    ],
+    [
+     "❤",
+     7
+    ]
+   ],
+   "peak_10min": 79,
+   "pain_hits": 15,
+   "rage_hits": 59,
+   "joy_hits": 29959,
+   "gamble_hits": 5,
+   "top_authors": [
+    [
+     "Ася",
+     278
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     226
+    ],
+    [
+     "Ins1der Developer",
+     188
+    ],
+    [
+     "BBT_Gambit",
+     74
+    ],
+    [
+     "Алекс",
+     69
+    ],
+    [
+     "Gojō Satoru",
+     65
+    ],
+    [
+     "Иван",
+     61
+    ],
+    [
+     "Katerina",
+     50
+    ]
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "weekday": "пн",
+   "messages": 2110,
+   "authors": 32,
+   "chars": 49819,
+   "night_msgs": 638,
+   "replies": 1330,
+   "media": 129,
+   "voice": 8,
+   "photos": 34,
+   "stickers": 44,
+   "reactions": 150,
+   "top_reactions": [
+    [
+     "😁",
+     32
+    ],
+    [
+     "🤣",
+     28
+    ],
+    [
+     "👀",
+     20
+    ],
+    [
+     "❤",
+     18
+    ],
+    [
+     "👋",
+     12
+    ]
+   ],
+   "peak_10min": 123,
+   "pain_hits": 26,
+   "rage_hits": 105,
+   "joy_hits": 51756,
+   "gamble_hits": 10,
+   "top_authors": [
+    [
+     "Ася",
+     445
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     327
+    ],
+    [
+     "Ins1der Developer",
+     258
+    ],
+    [
+     "Kapi",
+     154
+    ],
+    [
+     "Алекс",
+     136
+    ],
+    [
+     "Ігор",
+     127
+    ],
+    [
+     "Katerina",
+     66
+    ],
+    [
+     "𝖆𝖇𝖔𝖛𝖊",
+     64
+    ]
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "weekday": "вт",
+   "messages": 575,
+   "authors": 24,
+   "chars": 15527,
+   "night_msgs": 51,
+   "replies": 271,
+   "media": 63,
+   "voice": 11,
+   "photos": 6,
+   "stickers": 22,
+   "reactions": 59,
+   "top_reactions": [
+    [
+     "😁",
+     16
+    ],
+    [
+     "❤",
+     15
+    ],
+    [
+     "🤣",
+     8
+    ],
+    [
+     "👍",
+     6
+    ],
+    [
+     "👀",
+     6
+    ]
+   ],
+   "peak_10min": 58,
+   "pain_hits": 9,
+   "rage_hits": 37,
+   "joy_hits": 16025,
+   "gamble_hits": 4,
+   "top_authors": [
+    [
+     "Ася",
+     91
+    ],
+    [
+     "BBT_Gambit",
+     91
+    ],
+    [
+     "Капитан джек воробей 🔴⚪",
+     87
+    ],
+    [
+     "Gojō Satoru",
+     63
+    ],
+    [
+     "Крупин",
+     55
+    ],
+    [
+     "Kabir_Labib_LTG",
+     29
+    ],
+    [
+     "Алекс",
+     28
+    ],
+    [
+     "Katerina",
+     26
+    ]
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "weekday": "ср",
+   "messages": 994,
+   "authors": 25,
+   "chars": 26818,
+   "night_msgs": 434,
+   "replies": 637,
+   "media": 127,
+   "voice": 17,
+   "photos": 38,
+   "stickers": 38,
+   "reactions": 108,
+   "top_reactions": [
+    [
+     "🤣",
+     54
+    ],
+    [
+     "👀",
+     14
+    ],
+    [
+     "❤",
+     10
+    ],
+    [
+     "😁",
+     7
+    ],
+    [
+     "👋",
+     6
+    ]
+   ],
+   "peak_10min": 63,
+   "pain_hits": 19,
+   "rage_hits": 54,
+   "joy_hits": 27733,
+   "gamble_hits": 8,
+   "top_authors": [
+    [
+     "Капитан джек воробей 🔴⚪",
+     181
+    ],
+    [
+     "Ася",
+     175
+    ],
+    [
+     "Ins1der Developer",
+     145
+    ],
+    [
+     "Дмитрий",
+     94
+    ],
+    [
+     "Крупин",
+     93
+    ],
+    [
+     "Kabir_Labib_LTG",
+     61
+    ],
+    [
+     "POLKOVNIK",
+     50
+    ],
+    [
+     "Волчица",
+     43
+    ]
+   ]
+  }
+ ],
+ "authors": [
+  {
+   "author": "Ася",
+   "alias": "Ася",
+   "messages": 5498,
+   "chars": 128818,
+   "avg_len": 23.4,
+   "night_share": 0.3,
+   "reply_share": 0.49,
+   "reactions_got": 442,
+   "reactions_given": 31,
+   "media": 256,
+   "voice": 65,
+   "first_seen": "2026-07-19",
+   "last_seen": "2026-08-05",
+   "active_days": 18,
+   "pain": 64,
+   "rage": 313,
+   "gamble": 22,
+   "top_words": [
+    "только",
+    "просто",
+    "будет",
+    "вообще",
+    "сегодня",
+    "можно",
+    "вроде",
+    "сейчас",
+    "может",
+    "очень",
+    "чтобы",
+    "когда",
+    "поэтому",
+    "потом",
+    "пиздец"
+   ]
+  },
+  {
+   "author": "Капитан джек воробей 🔴⚪",
+   "alias": "Капитан джек воробей 🔴⚪",
+   "messages": 5204,
+   "chars": 183845,
+   "avg_len": 35.3,
+   "night_share": 0.38,
+   "reply_share": 0.51,
+   "reactions_got": 308,
+   "reactions_given": 116,
+   "media": 289,
+   "voice": 0,
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-08-05",
+   "active_days": 35,
+   "pain": 84,
+   "rage": 187,
+   "gamble": 33,
+   "top_words": [
+    "будет",
+    "просто",
+    "только",
+    "потом",
+    "может",
+    "много",
+    "такое",
+    "когда",
+    "вообще",
+    "такой",
+    "можно",
+    "сейчас",
+    "тогда",
+    "этого",
+    "после"
+   ]
+  },
+  {
+   "author": "Ded Jawerssa",
+   "alias": "Ded Jawerssa",
+   "messages": 4879,
+   "chars": 139913,
+   "avg_len": 28.7,
+   "night_share": 0.45,
+   "reply_share": 0.48,
+   "reactions_got": 292,
+   "reactions_given": 0,
+   "media": 222,
+   "voice": 1,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-31",
+   "active_days": 31,
+   "pain": 104,
+   "rage": 353,
+   "gamble": 24,
+   "top_words": [
+    "просто",
+    "будет",
+    "пиздец",
+    "блять",
+    "когда",
+    "чтобы",
+    "только",
+    "почему",
+    "такое",
+    "тогда",
+    "нахуй",
+    "можно",
+    "аниме",
+    "очень",
+    "именно"
+   ]
+  },
+  {
+   "author": "Ігор",
+   "alias": "Ігор",
+   "messages": 3429,
+   "chars": 71647,
+   "avg_len": 20.9,
+   "night_share": 0.37,
+   "reply_share": 0.71,
+   "reactions_got": 270,
+   "reactions_given": 57,
+   "media": 8,
+   "voice": 2,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-08-05",
+   "active_days": 35,
+   "pain": 87,
+   "rage": 665,
+   "gamble": 3,
+   "top_words": [
+    "блять",
+    "нахуй",
+    "похуй",
+    "будет",
+    "просто",
+    "только",
+    "когда",
+    "здесь",
+    "сказал",
+    "дурак",
+    "давай",
+    "теперь",
+    "больше",
+    "какой",
+    "почему"
+   ]
+  },
+  {
+   "author": "Kabir_Labib_LTG",
+   "alias": "Kabir_Labib_LTG",
+   "messages": 2902,
+   "chars": 81239,
+   "avg_len": 28.0,
+   "night_share": 0.33,
+   "reply_share": 0.68,
+   "reactions_got": 193,
+   "reactions_given": 344,
+   "media": 183,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-08-05",
+   "active_days": 34,
+   "pain": 37,
+   "rage": 251,
+   "gamble": 6,
+   "top_words": [
+    "будет",
+    "давай",
+    "кстати",
+    "нахуй",
+    "спать",
+    "только",
+    "просто",
+    "когда",
+    "потом",
+    "будем",
+    "ладно",
+    "пиздец",
+    "сейчас",
+    "тогда",
+    "почему"
+   ]
+  },
+  {
+   "author": "Крупин",
+   "alias": "Крупин",
+   "messages": 2182,
+   "chars": 49769,
+   "avg_len": 22.8,
+   "night_share": 0.2,
+   "reply_share": 0.58,
+   "reactions_got": 152,
+   "reactions_given": 603,
+   "media": 222,
+   "voice": 8,
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-08-05",
+   "active_days": 24,
+   "pain": 24,
+   "rage": 75,
+   "gamble": 3,
+   "top_words": [
+    "кстати",
+    "хорошо",
+    "аххахахахаха",
+    "ыххыхыхыхых",
+    "приятного",
+    "только",
+    "сейчас",
+    "будет",
+    "сладких",
+    "можно",
+    "тогда",
+    "привет",
+    "понял",
+    "очень",
+    "просто"
+   ]
+  },
+  {
+   "author": "Волчица",
+   "alias": "Волчица",
+   "messages": 1316,
+   "chars": 29796,
+   "avg_len": 22.6,
+   "night_share": 0.13,
+   "reply_share": 0.83,
+   "reactions_got": 174,
+   "reactions_given": 374,
+   "media": 188,
+   "voice": 48,
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-08-05",
+   "active_days": 23,
+   "pain": 15,
+   "rage": 71,
+   "gamble": 2,
+   "top_words": [
+    "просто",
+    "вообще",
+    "только",
+    "можно",
+    "давай",
+    "когда",
+    "ладно",
+    "пиздец",
+    "канешна",
+    "зачем",
+    "вроде",
+    "люблю",
+    "больше",
+    "блять",
+    "какой"
+   ]
+  },
+  {
+   "author": "Gojō Satoru",
+   "alias": "Gojō Satoru",
+   "messages": 1288,
+   "chars": 44264,
+   "avg_len": 34.4,
+   "night_share": 0.1,
+   "reply_share": 0.43,
+   "reactions_got": 94,
+   "reactions_given": 54,
+   "media": 177,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-08-04",
+   "active_days": 30,
+   "pain": 17,
+   "rage": 119,
+   "gamble": 2,
+   "top_words": [
+    "вроде",
+    "просто",
+    "сказал",
+    "блять",
+    "будет",
+    "аниме",
+    "когда",
+    "понял",
+    "смотрел",
+    "видел",
+    "какой",
+    "пишет",
+    "можно",
+    "потом",
+    "ладно"
+   ]
+  },
+  {
+   "author": "Ins1der Developer",
+   "alias": "Ins1der Developer",
+   "messages": 1053,
+   "chars": 40899,
+   "avg_len": 38.8,
+   "night_share": 0.26,
+   "reply_share": 0.57,
+   "reactions_got": 101,
+   "reactions_given": 56,
+   "media": 97,
+   "voice": 4,
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-08-05",
+   "active_days": 9,
+   "pain": 24,
+   "rage": 43,
+   "gamble": 2,
+   "top_words": [
+    "будет",
+    "просто",
+    "только",
+    "вообще",
+    "можно",
+    "больше",
+    "ничего",
+    "когда",
+    "потом",
+    "тогда",
+    "конечно",
+    "сейчас",
+    "чтобы",
+    "слова",
+    "решил"
+   ]
+  },
+  {
+   "author": "𝖆𝖇𝖔𝖛𝖊",
+   "alias": "𝖆𝖇𝖔𝖛𝖊",
+   "messages": 799,
+   "chars": 20030,
+   "avg_len": 25.1,
+   "night_share": 0.33,
+   "reply_share": 0.31,
+   "reactions_got": 30,
+   "reactions_given": 81,
+   "media": 66,
+   "voice": 0,
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-05",
+   "active_days": 13,
+   "pain": 12,
+   "rage": 70,
+   "gamble": 1,
+   "top_words": [
+    "просто",
+    "больше",
+    "может",
+    "только",
+    "можно",
+    "будет",
+    "реально",
+    "когда",
+    "чтобы",
+    "конечно",
+    "сегодня",
+    "вроде",
+    "нахуй",
+    "игорек",
+    "пиздец"
+   ]
+  },
+  {
+   "author": "Kapi",
+   "alias": "Kapi",
+   "messages": 694,
+   "chars": 9990,
+   "avg_len": 14.4,
+   "night_share": 0.13,
+   "reply_share": 0.46,
+   "reactions_got": 38,
+   "reactions_given": 12,
+   "media": 90,
+   "voice": 4,
+   "first_seen": "2026-07-05",
+   "last_seen": "2026-08-04",
+   "active_days": 23,
+   "pain": 16,
+   "rage": 7,
+   "gamble": 4,
+   "top_words": [
+    "только",
+    "пойду",
+    "может",
+    "можно",
+    "будет",
+    "опять",
+    "вообще",
+    "доброе",
+    "домой",
+    "работы",
+    "сколько",
+    "спать",
+    "давай",
+    "какие",
+    "аниме"
+   ]
+  },
+  {
+   "author": "Иван",
+   "alias": "Иван",
+   "messages": 532,
+   "chars": 9809,
+   "avg_len": 18.4,
+   "night_share": 0.11,
+   "reply_share": 0.47,
+   "reactions_got": 38,
+   "reactions_given": 50,
+   "media": 50,
+   "voice": 0,
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-08-05",
+   "active_days": 12,
+   "pain": 10,
+   "rage": 44,
+   "gamble": 1,
+   "top_words": [
+    "блять",
+    "очень",
+    "только",
+    "привет",
+    "скинуть",
+    "доброе",
+    "можно",
+    "больше",
+    "просто",
+    "будет",
+    "спасибо",
+    "пожалуйста",
+    "лучше",
+    "обидно",
+    "конечно"
+   ]
+  },
+  {
+   "author": "Танечка🦢",
+   "alias": "Танечка🦢",
+   "messages": 485,
+   "chars": 19315,
+   "avg_len": 39.8,
+   "night_share": 0.25,
+   "reply_share": 0.79,
+   "reactions_got": 105,
+   "reactions_given": 321,
+   "media": 39,
+   "voice": 0,
+   "first_seen": "2026-07-04",
+   "last_seen": "2026-08-03",
+   "active_days": 16,
+   "pain": 18,
+   "rage": 0,
+   "gamble": 1,
+   "top_words": [
+    "может",
+    "после",
+    "тогда",
+    "ничего",
+    "спасибо",
+    "только",
+    "снова",
+    "когда",
+    "сегодня",
+    "хорошо",
+    "привет",
+    "будет",
+    "ладно",
+    "сейчас",
+    "пожалуйста"
+   ]
+  },
+  {
+   "author": "Katerina",
+   "alias": "Katerina",
+   "messages": 471,
+   "chars": 16146,
+   "avg_len": 34.3,
+   "night_share": 0.37,
+   "reply_share": 0.77,
+   "reactions_got": 65,
+   "reactions_given": 189,
+   "media": 13,
+   "voice": 1,
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-08-05",
+   "active_days": 15,
+   "pain": 12,
+   "rage": 1,
+   "gamble": 4,
+   "top_words": [
+    "просто",
+    "вообще",
+    "ничего",
+    "можно",
+    "привет",
+    "только",
+    "тогда",
+    "теперь",
+    "будет",
+    "конечно",
+    "хорошо",
+    "видела",
+    "поняла",
+    "гарем",
+    "хватило"
+   ]
+  },
+  {
+   "author": "Дмитрий",
+   "alias": "Дмитрий",
+   "messages": 464,
+   "chars": 8994,
+   "avg_len": 19.4,
+   "night_share": 0.71,
+   "reply_share": 0.45,
+   "reactions_got": 54,
+   "reactions_given": 11,
+   "media": 195,
+   "voice": 11,
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-08-05",
+   "active_days": 8,
+   "pain": 4,
+   "rage": 4,
+   "gamble": 10,
+   "top_words": [
+    "когда",
+    "будет",
+    "сегодня",
+    "сколько",
+    "ставить",
+    "завтра",
+    "какая",
+    "потом",
+    "просто",
+    "вчера",
+    "теперь",
+    "какую",
+    "нибудь",
+    "нашел",
+    "такая"
+   ]
+  },
+  {
+   "author": "Алекс",
+   "alias": "Алекс",
+   "messages": 397,
+   "chars": 9139,
+   "avg_len": 23.0,
+   "night_share": 0.24,
+   "reply_share": 0.86,
+   "reactions_got": 58,
+   "reactions_given": 30,
+   "media": 45,
+   "voice": 22,
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-08-05",
+   "active_days": 9,
+   "pain": 5,
+   "rage": 18,
+   "gamble": 0,
+   "top_words": [
+    "только",
+    "просто",
+    "лучше",
+    "чтобы",
+    "давай",
+    "будет",
+    "исполина",
+    "потом",
+    "подожди",
+    "приятного",
+    "походу",
+    "очередь",
+    "парни",
+    "против",
+    "понял"
+   ]
+  },
+  {
+   "author": "𝐊𝐑𝐎𝐕𝐀𝐖𝐘 𝐈𝐒𝐏𝐎𝐋𝐈𝐍",
+   "alias": "𝐊𝐑𝐎𝐕𝐀𝐖𝐘 𝐈𝐒𝐏𝐎𝐋𝐈𝐍",
+   "messages": 376,
+   "chars": 9315,
+   "avg_len": 24.8,
+   "night_share": 0.12,
+   "reply_share": 0.52,
+   "reactions_got": 52,
+   "reactions_given": 17,
+   "media": 26,
+   "voice": 0,
+   "first_seen": "2026-07-04",
+   "last_seen": "2026-08-03",
+   "active_days": 15,
+   "pain": 5,
+   "rage": 53,
+   "gamble": 0,
+   "top_words": [
+    "хахаха",
+    "нахуй",
+    "просто",
+    "думаю",
+    "только",
+    "пизда",
+    "сейчас",
+    "этого",
+    "будет",
+    "вообще",
+    "зеленоградский",
+    "душитель",
+    "быдло",
+    "такое",
+    "скажите"
+   ]
+  },
+  {
+   "author": "agent 228",
+   "alias": "agent 228",
+   "messages": 361,
+   "chars": 8422,
+   "avg_len": 23.3,
+   "night_share": 0.09,
+   "reply_share": 0.69,
+   "reactions_got": 27,
+   "reactions_given": 1,
+   "media": 12,
+   "voice": 2,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-08-04",
+   "active_days": 27,
+   "pain": 8,
+   "rage": 3,
+   "gamble": 4,
+   "top_words": [
+    "доброе",
+    "вообще",
+    "опять",
+    "вроде",
+    "сейчас",
+    "просто",
+    "ничего",
+    "основе",
+    "ладно",
+    "происходит",
+    "пенит",
+    "такое",
+    "добрый",
+    "нибудь",
+    "работе"
+   ]
+  },
+  {
+   "author": "Михалец",
+   "alias": "Михалец",
+   "messages": 356,
+   "chars": 11952,
+   "avg_len": 33.6,
+   "night_share": 0.36,
+   "reply_share": 0.68,
+   "reactions_got": 20,
+   "reactions_given": 37,
+   "media": 29,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-08-02",
+   "active_days": 13,
+   "pain": 6,
+   "rage": 12,
+   "gamble": 27,
+   "top_words": [
+    "анимэ",
+    "лучше",
+    "смотрю",
+    "теперь",
+    "можно",
+    "понял",
+    "вообще",
+    "просто",
+    "тогда",
+    "может",
+    "погнали",
+    "стрим",
+    "такие",
+    "точно",
+    "серии"
+   ]
+  },
+  {
+   "author": "OweniXX",
+   "alias": "OweniXX",
+   "messages": 347,
+   "chars": 10666,
+   "avg_len": 30.7,
+   "night_share": 0.0,
+   "reply_share": 0.7,
+   "reactions_got": 43,
+   "reactions_given": 21,
+   "media": 13,
+   "voice": 0,
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-31",
+   "active_days": 5,
+   "pain": 7,
+   "rage": 4,
+   "gamble": 0,
+   "top_words": [
+    "просто",
+    "когда",
+    "сейчас",
+    "только",
+    "спасибо",
+    "лучше",
+    "правда",
+    "вообще",
+    "чтобы",
+    "хорошо",
+    "вроде",
+    "давно",
+    "угрожает",
+    "потом",
+    "теперь"
+   ]
+  },
+  {
+   "author": "Роман (Chiki_briki)",
+   "alias": "Роман (Chiki_briki)",
+   "messages": 309,
+   "chars": 5898,
+   "avg_len": 19.1,
+   "night_share": 0.14,
+   "reply_share": 0.34,
+   "reactions_got": 51,
+   "reactions_given": 66,
+   "media": 29,
+   "voice": 0,
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-08-05",
+   "active_days": 27,
+   "pain": 2,
+   "rage": 13,
+   "gamble": 6,
+   "top_words": [
+    "будет",
+    "просто",
+    "вообще",
+    "понял",
+    "когда",
+    "может",
+    "такое",
+    "согласен",
+    "ахпахпаха",
+    "такой",
+    "давайте",
+    "говорит",
+    "дарова",
+    "нужно",
+    "можно"
+   ]
+  },
+  {
+   "author": "Dank1n",
+   "alias": "Dank1n",
+   "messages": 285,
+   "chars": 5505,
+   "avg_len": 19.3,
+   "night_share": 0.16,
+   "reply_share": 0.47,
+   "reactions_got": 38,
+   "reactions_given": 2,
+   "media": 30,
+   "voice": 0,
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-29",
+   "active_days": 10,
+   "pain": 5,
+   "rage": 41,
+   "gamble": 0,
+   "top_words": [
+    "нахуй",
+    "пиздец",
+    "ахахахах",
+    "ебать",
+    "будет",
+    "просто",
+    "дурак",
+    "блять",
+    "город",
+    "отпуске",
+    "пусть",
+    "похуй",
+    "чисто",
+    "аххахаха",
+    "ебаный"
+   ]
+  },
+  {
+   "author": "BBT_Gambit",
+   "alias": "BBT_Gambit",
+   "messages": 261,
+   "chars": 4684,
+   "avg_len": 17.9,
+   "night_share": 0.17,
+   "reply_share": 0.49,
+   "reactions_got": 13,
+   "reactions_given": 7,
+   "media": 26,
+   "voice": 2,
+   "first_seen": "2026-08-02",
+   "last_seen": "2026-08-05",
+   "active_days": 4,
+   "pain": 3,
+   "rage": 9,
+   "gamble": 1,
+   "top_words": [
+    "потом",
+    "будет",
+    "школьник",
+    "решил",
+    "вчера",
+    "чисто",
+    "раньше",
+    "абоба",
+    "начала",
+    "кушать",
+    "просто",
+    "танки",
+    "каждый",
+    "взять",
+    "нинада"
+   ]
+  },
+  {
+   "author": "Анастасия",
+   "alias": "Анастасия",
+   "messages": 248,
+   "chars": 4638,
+   "avg_len": 18.7,
+   "night_share": 0.13,
+   "reply_share": 0.64,
+   "reactions_got": 81,
+   "reactions_given": 213,
+   "media": 28,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-08-04",
+   "active_days": 26,
+   "pain": 3,
+   "rage": 1,
+   "gamble": 0,
+   "top_words": [
+    "привет",
+    "добрый",
+    "здравствуйте",
+    "пожалуйста",
+    "аниме",
+    "вечер",
+    "здравствуй",
+    "chiki",
+    "briki",
+    "святая",
+    "харош",
+    "ромка",
+    "доброй",
+    "почему",
+    "золотко"
+   ]
+  },
+  {
+   "author": "Василий",
+   "alias": "Василий",
+   "messages": 220,
+   "chars": 6448,
+   "avg_len": 29.3,
+   "night_share": 0.1,
+   "reply_share": 0.27,
+   "reactions_got": 41,
+   "reactions_given": 2,
+   "media": 32,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-08-01",
+   "active_days": 19,
+   "pain": 2,
+   "rage": 31,
+   "gamble": 0,
+   "top_words": [
+    "просто",
+    "блять",
+    "будет",
+    "вчера",
+    "вопрос",
+    "через",
+    "сообщения",
+    "сказал",
+    "смотреть",
+    "стрим",
+    "делает",
+    "месте",
+    "ебать",
+    "естественно",
+    "всего"
+   ]
+  },
+  {
+   "author": "Альт 🇷🇸",
+   "alias": "Альт 🇷🇸",
+   "messages": 220,
+   "chars": 6023,
+   "avg_len": 27.4,
+   "night_share": 0.25,
+   "reply_share": 0.54,
+   "reactions_got": 7,
+   "reactions_given": 69,
+   "media": 12,
+   "voice": 1,
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-08-01",
+   "active_days": 12,
+   "pain": 5,
+   "rage": 17,
+   "gamble": 0,
+   "top_words": [
+    "будет",
+    "реально",
+    "завтра",
+    "момент",
+    "больше",
+    "зелик",
+    "потом",
+    "улице",
+    "видать",
+    "такой",
+    "думаю",
+    "чухан",
+    "лично",
+    "контент",
+    "добрейший"
+   ]
+  },
+  {
+   "author": "𝕱𝖑𝖊𝖝𝖚𝖘𝕬𝖛𝕲𝖒",
+   "alias": "𝕱𝖑𝖊𝖝𝖚𝖘𝕬𝖛𝕲𝖒",
+   "messages": 206,
+   "chars": 6903,
+   "avg_len": 33.5,
+   "night_share": 0.53,
+   "reply_share": 0.56,
+   "reactions_got": 14,
+   "reactions_given": 5,
+   "media": 4,
+   "voice": 0,
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-23",
+   "active_days": 2,
+   "pain": 4,
+   "rage": 2,
+   "gamble": 3,
+   "top_words": [
+    "только",
+    "главное",
+    "тогда",
+    "танки",
+    "вазелин",
+    "хочешь",
+    "вроде",
+    "сказал",
+    "такое",
+    "маленький",
+    "жизнь",
+    "сколько",
+    "давно",
+    "потом",
+    "другой"
+   ]
+  },
+  {
+   "author": "Тёмный Жрец",
+   "alias": "Тёмный Жрец",
+   "messages": 175,
+   "chars": 3294,
+   "avg_len": 18.8,
+   "night_share": 0.19,
+   "reply_share": 0.55,
+   "reactions_got": 11,
+   "reactions_given": 14,
+   "media": 66,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-08-01",
+   "active_days": 15,
+   "pain": 0,
+   "rage": 10,
+   "gamble": 0,
+   "top_words": [
+    "сериал",
+    "будет",
+    "сезон",
+    "смотрел",
+    "этого",
+    "чисто",
+    "потом",
+    "такой",
+    "посмотреть",
+    "девка",
+    "ахаха",
+    "актёр",
+    "фильм",
+    "новый",
+    "понятно"
+   ]
+  },
+  {
+   "author": "𝐌𝐫.𝐏𝐞𝐩𝐞",
+   "alias": "𝐌𝐫.𝐏𝐞𝐩𝐞",
+   "messages": 173,
+   "chars": 6169,
+   "avg_len": 35.7,
+   "night_share": 0.49,
+   "reply_share": 0.74,
+   "reactions_got": 9,
+   "reactions_given": 4,
+   "media": 1,
+   "voice": 0,
+   "first_seen": "2026-07-19",
+   "last_seen": "2026-07-20",
+   "active_days": 2,
+   "pain": 4,
+   "rage": 0,
+   "gamble": 7,
+   "top_words": [
+    "просто",
+    "будет",
+    "может",
+    "ладно",
+    "только",
+    "понятно",
+    "видимо",
+    "сатаны",
+    "теория",
+    "через",
+    "наверно",
+    "хорошо",
+    "против",
+    "испании",
+    "фетиши"
+   ]
+  },
+  {
+   "author": "Маша",
+   "alias": "Маша",
+   "messages": 170,
+   "chars": 1337,
+   "avg_len": 7.9,
+   "night_share": 0.07,
+   "reply_share": 0.38,
+   "reactions_got": 29,
+   "reactions_given": 9,
+   "media": 85,
+   "voice": 60,
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-08-05",
+   "active_days": 11,
+   "pain": 0,
+   "rage": 2,
+   "gamble": 0,
+   "top_words": [
+    "здравствуй",
+    "золотко",
+    "ахахаха",
+    "хорошие",
+    "нуууууу",
+    "сенкс",
+    "ооооот",
+    "караоке",
+    "стакана",
+    "любой",
+    "дратути",
+    "эскиз",
+    "дадада",
+    "смотрите",
+    "ладно"
+   ]
+  },
+  {
+   "author": "Сергей",
+   "alias": "Сергей",
+   "messages": 132,
+   "chars": 3764,
+   "avg_len": 28.5,
+   "night_share": 0.05,
+   "reply_share": 0.52,
+   "reactions_got": 19,
+   "reactions_given": 18,
+   "media": 30,
+   "voice": 8,
+   "first_seen": "2026-07-05",
+   "last_seen": "2026-08-03",
+   "active_days": 19,
+   "pain": 2,
+   "rage": 0,
+   "gamble": 3,
+   "top_words": [
+    "потом",
+    "опять",
+    "исполин",
+    "почтение",
+    "сейчас",
+    "когда",
+    "товарищ",
+    "здравствуйте",
+    "спать",
+    "сегодня",
+    "только",
+    "можно",
+    "всего",
+    "смысла",
+    "сделал"
+   ]
+  },
+  {
+   "author": "Олег",
+   "alias": "Олег",
+   "messages": 129,
+   "chars": 2783,
+   "avg_len": 21.6,
+   "night_share": 0.02,
+   "reply_share": 0.61,
+   "reactions_got": 35,
+   "reactions_given": 40,
+   "media": 10,
+   "voice": 0,
+   "first_seen": "2026-07-12",
+   "last_seen": "2026-08-01",
+   "active_days": 5,
+   "pain": 1,
+   "rage": 4,
+   "gamble": 0,
+   "top_words": [
+    "привет",
+    "аххахахахаха",
+    "какой",
+    "усюка",
+    "кстати",
+    "какие",
+    "будет",
+    "одного",
+    "какую",
+    "всплывает",
+    "давай",
+    "взять",
+    "можно",
+    "красивые",
+    "тогда"
+   ]
+  },
+  {
+   "author": "POLKOVNIK",
+   "alias": "POLKOVNIK",
+   "messages": 119,
+   "chars": 2967,
+   "avg_len": 24.9,
+   "night_share": 0.15,
+   "reply_share": 0.76,
+   "reactions_got": 4,
+   "reactions_given": 9,
+   "media": 19,
+   "voice": 0,
+   "first_seen": "2026-08-01",
+   "last_seen": "2026-08-05",
+   "active_days": 4,
+   "pain": 1,
+   "rage": 13,
+   "gamble": 1,
+   "top_words": [
+    "время",
+    "покажи",
+    "просто",
+    "поэтому",
+    "прошел",
+    "понимаю",
+    "когда",
+    "кстати",
+    "получается",
+    "пиздюка",
+    "должен",
+    "нельзя",
+    "сразу",
+    "обычно",
+    "таких"
+   ]
+  },
+  {
+   "author": "~",
+   "alias": "~",
+   "messages": 116,
+   "chars": 3842,
+   "avg_len": 33.1,
+   "night_share": 0.0,
+   "reply_share": 0.37,
+   "reactions_got": 7,
+   "reactions_given": 4,
+   "media": 34,
+   "voice": 0,
+   "first_seen": "2026-07-04",
+   "last_seen": "2026-07-29",
+   "active_days": 8,
+   "pain": 1,
+   "rage": 8,
+   "gamble": 0,
+   "top_words": [
+    "минут",
+    "просто",
+    "работает",
+    "добрый",
+    "приятного",
+    "привет",
+    "нибудь",
+    "через",
+    "можно",
+    "чтобы",
+    "вроде",
+    "потом",
+    "добавляем",
+    "тушим",
+    "закончился"
+   ]
+  },
+  {
+   "author": "Алексей Манул",
+   "alias": "Алексей Манул",
+   "messages": 114,
+   "chars": 3247,
+   "avg_len": 28.5,
+   "night_share": 0.06,
+   "reply_share": 0.83,
+   "reactions_got": 18,
+   "reactions_given": 6,
+   "media": 1,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-20",
+   "active_days": 8,
+   "pain": 6,
+   "rage": 8,
+   "gamble": 1,
+   "top_words": [
+    "только",
+    "будет",
+    "можно",
+    "минск",
+    "пизди",
+    "такого",
+    "ладно",
+    "давай",
+    "будешь",
+    "просто",
+    "тогда",
+    "привет",
+    "вообще",
+    "детям",
+    "ноулимите"
+   ]
+  },
+  {
+   "author": "Дим*",
+   "alias": "Дим*",
+   "messages": 112,
+   "chars": 3269,
+   "avg_len": 29.2,
+   "night_share": 0.58,
+   "reply_share": 0.64,
+   "reactions_got": 9,
+   "reactions_given": 18,
+   "media": 5,
+   "voice": 0,
+   "first_seen": "2026-07-12",
+   "last_seen": "2026-08-04",
+   "active_days": 18,
+   "pain": 2,
+   "rage": 6,
+   "gamble": 0,
+   "top_words": [
+    "будет",
+    "точно",
+    "видел",
+    "вазелин",
+    "просто",
+    "йобаний",
+    "например",
+    "интересно",
+    "версия",
+    "нахой",
+    "аргентина",
+    "знает",
+    "такая",
+    "скильки",
+    "может"
+   ]
+  },
+  {
+   "author": "TevolCors (Данил)",
+   "alias": "TevolCors (Данил)",
+   "messages": 109,
+   "chars": 3071,
+   "avg_len": 28.2,
+   "night_share": 0.25,
+   "reply_share": 0.63,
+   "reactions_got": 17,
+   "reactions_given": 8,
+   "media": 6,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-29",
+   "active_days": 15,
+   "pain": 5,
+   "rage": 3,
+   "gamble": 0,
+   "top_words": [
+    "можно",
+    "такой",
+    "вроде",
+    "хочет",
+    "ахахахахах",
+    "играет",
+    "смотрю",
+    "согласен",
+    "теперь",
+    "скорее",
+    "всего",
+    "дальше",
+    "очень",
+    "точно",
+    "спать"
+   ]
+  },
+  {
+   "author": "RK | SAMURAY",
+   "alias": "RK | SAMURAY",
+   "messages": 105,
+   "chars": 2551,
+   "avg_len": 24.3,
+   "night_share": 0.19,
+   "reply_share": 0.64,
+   "reactions_got": 1,
+   "reactions_given": 0,
+   "media": 0,
+   "voice": 0,
+   "first_seen": "2026-07-05",
+   "last_seen": "2026-07-31",
+   "active_days": 6,
+   "pain": 2,
+   "rage": 3,
+   "gamble": 0,
+   "top_words": [
+    "сейчас",
+    "будет",
+    "может",
+    "понял",
+    "можно",
+    "потом",
+    "только",
+    "запустил",
+    "ладно",
+    "неймара",
+    "последний",
+    "месси",
+    "смотреть",
+    "базар",
+    "абоба"
+   ]
+  },
+  {
+   "author": "𝕽𝖞𝖔𝖌𝖎𝕾𝖍𝖎𝖐𝖎",
+   "alias": "𝕽𝖞𝖔𝖌𝖎𝕾𝖍𝖎𝖐𝖎",
+   "messages": 104,
+   "chars": 4593,
+   "avg_len": 44.2,
+   "night_share": 0.0,
+   "reply_share": 0.54,
+   "reactions_got": 10,
+   "reactions_given": 0,
+   "media": 3,
+   "voice": 0,
+   "first_seen": "2026-07-05",
+   "last_seen": "2026-08-01",
+   "active_days": 3,
+   "pain": 4,
+   "rage": 30,
+   "gamble": 0,
+   "top_words": [
+    "алексея",
+    "сейчас",
+    "нахуй",
+    "телефон",
+    "может",
+    "гляну",
+    "только",
+    "человека",
+    "будет",
+    "пропустил",
+    "водима",
+    "сабиной",
+    "оказались",
+    "зашёл",
+    "нарезки"
+   ]
+  },
+  {
+   "author": "Аня",
+   "alias": "Аня",
+   "messages": 100,
+   "chars": 3423,
+   "avg_len": 34.2,
+   "night_share": 0.05,
+   "reply_share": 0.77,
+   "reactions_got": 20,
+   "reactions_given": 18,
+   "media": 7,
+   "voice": 1,
+   "first_seen": "2026-07-05",
+   "last_seen": "2026-08-03",
+   "active_days": 8,
+   "pain": 3,
+   "rage": 12,
+   "gamble": 0,
+   "top_words": [
+    "просто",
+    "можно",
+    "вопрос",
+    "ладно",
+    "корзине",
+    "блять",
+    "задал",
+    "людей",
+    "малыш",
+    "волчица",
+    "ответ",
+    "пиздец",
+    "несколько",
+    "недель",
+    "спустя"
+   ]
+  },
+  {
+   "author": "Vitaliy Krolov",
+   "alias": "Vitaliy Krolov",
+   "messages": 99,
+   "chars": 3872,
+   "avg_len": 39.1,
+   "night_share": 0.33,
+   "reply_share": 0.61,
+   "reactions_got": 19,
+   "reactions_given": 64,
+   "media": 10,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-08-04",
+   "active_days": 18,
+   "pain": 0,
+   "rage": 3,
+   "gamble": 3,
+   "top_words": [
+    "будет",
+    "несколько",
+    "минут",
+    "литров",
+    "почти",
+    "вообще",
+    "пробовал",
+    "после",
+    "более",
+    "скутер",
+    "такой",
+    "больше",
+    "начало",
+    "обычно",
+    "недель"
+   ]
+  },
+  {
+   "author": "Nomad𖣠",
+   "alias": "Nomad𖣠",
+   "messages": 98,
+   "chars": 3257,
+   "avg_len": 33.2,
+   "night_share": 0.0,
+   "reply_share": 0.74,
+   "reactions_got": 6,
+   "reactions_given": 1,
+   "media": 3,
+   "voice": 0,
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-31",
+   "active_days": 2,
+   "pain": 2,
+   "rage": 13,
+   "gamble": 0,
+   "top_words": [
+    "можно",
+    "будет",
+    "гарем",
+    "говорил",
+    "пиздец",
+    "вообще",
+    "исполину",
+    "сегодня",
+    "поезде",
+    "правильно",
+    "нихуя",
+    "привет",
+    "делать",
+    "алексей",
+    "человек"
+   ]
+  },
+  {
+   "author": "ДС",
+   "alias": "ДС",
+   "messages": 97,
+   "chars": 2220,
+   "avg_len": 22.9,
+   "night_share": 0.36,
+   "reply_share": 0.32,
+   "reactions_got": 0,
+   "reactions_given": 3,
+   "media": 2,
+   "voice": 2,
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-08-01",
+   "active_days": 2,
+   "pain": 0,
+   "rage": 7,
+   "gamble": 0,
+   "top_words": [
+    "понял",
+    "просто",
+    "ахаха",
+    "чуханья",
+    "какая",
+    "очередность",
+    "киров",
+    "другое",
+    "может",
+    "тогда",
+    "спинке",
+    "можно",
+    "встретиться",
+    "блять",
+    "здесь"
+   ]
+  },
+  {
+   "author": "Himera",
+   "alias": "Himera",
+   "messages": 92,
+   "chars": 2823,
+   "avg_len": 30.7,
+   "night_share": 1.0,
+   "reply_share": 0.6,
+   "reactions_got": 0,
+   "reactions_given": 1,
+   "media": 11,
+   "voice": 5,
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-08-01",
+   "active_days": 2,
+   "pain": 3,
+   "rage": 2,
+   "gamble": 1,
+   "top_words": [
+    "текст",
+    "много",
+    "просто",
+    "знает",
+    "часто",
+    "трудно",
+    "увлечения",
+    "бывает",
+    "наследство",
+    "понял",
+    "тогда",
+    "даааааааа",
+    "уррррваааа",
+    "бутылки",
+    "проигрыш"
+   ]
+  },
+  {
+   "author": "Кот🐈",
+   "alias": "Кот🐈",
+   "messages": 91,
+   "chars": 2598,
+   "avg_len": 28.5,
+   "night_share": 0.55,
+   "reply_share": 0.46,
+   "reactions_got": 6,
+   "reactions_given": 6,
+   "media": 1,
+   "voice": 0,
+   "first_seen": "2026-07-19",
+   "last_seen": "2026-07-20",
+   "active_days": 2,
+   "pain": 10,
+   "rage": 22,
+   "gamble": 3,
+   "top_words": [
+    "пиздец",
+    "нихуя",
+    "испания",
+    "аргентина",
+    "месси",
+    "лучше",
+    "хуйня",
+    "работает",
+    "хахах",
+    "ставил",
+    "думаю",
+    "проиграет",
+    "особенно",
+    "будет",
+    "захуярил"
+   ]
+  },
+  {
+   "author": "Modar_lui_8",
+   "alias": "Modar_lui_8",
+   "messages": 88,
+   "chars": 897,
+   "avg_len": 10.2,
+   "night_share": 0.07,
+   "reply_share": 0.05,
+   "reactions_got": 8,
+   "reactions_given": 0,
+   "media": 37,
+   "voice": 0,
+   "first_seen": "2026-07-04",
+   "last_seen": "2026-08-01",
+   "active_days": 19,
+   "pain": 3,
+   "rage": 1,
+   "gamble": 0,
+   "top_words": [
+    "такие",
+    "менеджера",
+    "серии",
+    "вышли",
+    "нетфликс",
+    "сразу",
+    "пачку",
+    "выпустили",
+    "кролики",
+    "девушку",
+    "выгуливаете",
+    "например",
+    "серий",
+    "родаки",
+    "катались"
+   ]
+  },
+  {
+   "author": "Pphilinan",
+   "alias": "Pphilinan",
+   "messages": 85,
+   "chars": 1267,
+   "avg_len": 14.9,
+   "night_share": 0.8,
+   "reply_share": 0.2,
+   "reactions_got": 1,
+   "reactions_given": 1,
+   "media": 11,
+   "voice": 0,
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-29",
+   "active_days": 7,
+   "pain": 1,
+   "rage": 7,
+   "gamble": 1,
+   "top_words": [
+    "мифик",
+    "какой",
+    "абобе",
+    "вообще",
+    "тогда",
+    "лейла",
+    "вопрос",
+    "придумали",
+    "истязание",
+    "пизда",
+    "впном",
+    "работает",
+    "блять",
+    "минут",
+    "пиздец"
+   ]
+  },
+  {
+   "author": "Berkut_Press",
+   "alias": "Berkut_Press",
+   "messages": 85,
+   "chars": 2689,
+   "avg_len": 31.6,
+   "night_share": 0.09,
+   "reply_share": 0.41,
+   "reactions_got": 9,
+   "reactions_given": 1,
+   "media": 3,
+   "voice": 0,
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-31",
+   "active_days": 16,
+   "pain": 3,
+   "rage": 2,
+   "gamble": 3,
+   "top_words": [
+    "настенька",
+    "деньги",
+    "будет",
+    "ахахах",
+    "абоба",
+    "пополнение",
+    "сутки",
+    "могут",
+    "зайду",
+    "такое",
+    "надеюсь",
+    "можно",
+    "ждать",
+    "платежная",
+    "система"
+   ]
+  },
+  {
+   "author": "Александр",
+   "alias": "Александр",
+   "messages": 71,
+   "chars": 2175,
+   "avg_len": 30.6,
+   "night_share": 0.0,
+   "reply_share": 0.34,
+   "reactions_got": 5,
+   "reactions_given": 7,
+   "media": 3,
+   "voice": 0,
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-07",
+   "active_days": 6,
+   "pain": 3,
+   "rage": 4,
+   "gamble": 1,
+   "top_words": [
+    "вывод",
+    "через",
+    "отправитель",
+    "быстро",
+    "стримы",
+    "сериал",
+    "думаю",
+    "будет",
+    "купить",
+    "нужен",
+    "совет",
+    "водки",
+    "проще",
+    "всего",
+    "сделать"
+   ]
+  },
+  {
+   "author": "Andrey",
+   "alias": "Andrey",
+   "messages": 64,
+   "chars": 2161,
+   "avg_len": 33.8,
+   "night_share": 0.09,
+   "reply_share": 0.62,
+   "reactions_got": 8,
+   "reactions_given": 3,
+   "media": 0,
+   "voice": 0,
+   "first_seen": "2026-07-05",
+   "last_seen": "2026-08-03",
+   "active_days": 6,
+   "pain": 2,
+   "rage": 8,
+   "gamble": 0,
+   "top_words": [
+    "клоун",
+    "просто",
+    "какой",
+    "сейчас",
+    "суток",
+    "горит",
+    "стриме",
+    "точно",
+    "раньше",
+    "будет",
+    "контракты",
+    "принципе",
+    "смотрим",
+    "правда",
+    "такие"
+   ]
+  },
+  {
+   "author": "𖦏 𝑯𝒆𝒗𝒊",
+   "alias": "𖦏 𝑯𝒆𝒗𝒊",
+   "messages": 64,
+   "chars": 1635,
+   "avg_len": 25.5,
+   "night_share": 0.41,
+   "reply_share": 0.27,
+   "reactions_got": 4,
+   "reactions_given": 4,
+   "media": 6,
+   "voice": 0,
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-26",
+   "active_days": 4,
+   "pain": 2,
+   "rage": 0,
+   "gamble": 3,
+   "top_words": [
+    "легко",
+    "поставил",
+    "ямалю",
+    "кубок",
+    "пенальти",
+    "только",
+    "сущность",
+    "гномика",
+    "хахахаахах",
+    "видели",
+    "придут",
+    "уйдут",
+    "въебет",
+    "прока",
+    "проще"
+   ]
+  },
+  {
+   "author": "@Sergey",
+   "alias": "@Sergey",
+   "messages": 63,
+   "chars": 2991,
+   "avg_len": 47.5,
+   "night_share": 0.02,
+   "reply_share": 0.19,
+   "reactions_got": 7,
+   "reactions_given": 0,
+   "media": 4,
+   "voice": 0,
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-08-04",
+   "active_days": 11,
+   "pain": 2,
+   "rage": 6,
+   "gamble": 1,
+   "top_words": [
+    "аргентина",
+    "будет",
+    "очень",
+    "нахер",
+    "нужен",
+    "думаю",
+    "сегодня",
+    "вроде",
+    "стрим",
+    "сейчас",
+    "равно",
+    "показывал",
+    "вопрос",
+    "помню",
+    "роман"
+   ]
+  },
+  {
+   "author": "HARD ROLL",
+   "alias": "HARD ROLL",
+   "messages": 60,
+   "chars": 13390,
+   "avg_len": 223.2,
+   "night_share": 0.2,
+   "reply_share": 0.03,
+   "reactions_got": 95,
+   "reactions_given": 0,
+   "media": 43,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-08-05",
+   "active_days": 25,
+   "pain": 2,
+   "rage": 0,
+   "gamble": 183,
+   "top_words": [
+    "hardplay",
+    "https",
+    "заносим",
+    "промокод",
+    "пропускай",
+    "стримы",
+    "раздачей",
+    "бонусов",
+    "постоянной",
+    "халявой",
+    "стрим",
+    "hardplayofficial",
+    "vkvideo",
+    "будет",
+    "поточек"
+   ]
+  },
+  {
+   "author": "Immerker",
+   "alias": "Immerker",
+   "messages": 60,
+   "chars": 1436,
+   "avg_len": 23.9,
+   "night_share": 1.0,
+   "reply_share": 0.58,
+   "reactions_got": 1,
+   "reactions_given": 0,
+   "media": 2,
+   "voice": 0,
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "active_days": 1,
+   "pain": 0,
+   "rage": 1,
+   "gamble": 0,
+   "top_words": [
+    "просто",
+    "можно",
+    "часов",
+    "сегодня",
+    "кстати",
+    "смотреть",
+    "нужно",
+    "вообще",
+    "начинается",
+    "стиме",
+    "нормально",
+    "домой",
+    "поехали",
+    "легенды",
+    "билли"
+   ]
+  },
+  {
+   "author": "ᅠ ᅠ❤️‍🩹",
+   "alias": "ᅠ ᅠ❤️‍🩹",
+   "messages": 59,
+   "chars": 1992,
+   "avg_len": 33.8,
+   "night_share": 0.44,
+   "reply_share": 0.36,
+   "reactions_got": 0,
+   "reactions_given": 3,
+   "media": 1,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-09",
+   "active_days": 3,
+   "pain": 1,
+   "rage": 3,
+   "gamble": 5,
+   "top_words": [
+    "просто",
+    "больше",
+    "снимут",
+    "через",
+    "сумма",
+    "вроде",
+    "всегда",
+    "бонус",
+    "спинов",
+    "стабильно",
+    "буквально",
+    "будет",
+    "маленкая",
+    "проще",
+    "обращения"
+   ]
+  },
+  {
+   "author": "Рязанов Иван",
+   "alias": "Рязанов Иван",
+   "messages": 52,
+   "chars": 2524,
+   "avg_len": 48.5,
+   "night_share": 0.0,
+   "reply_share": 0.83,
+   "reactions_got": 1,
+   "reactions_given": 1,
+   "media": 1,
+   "voice": 0,
+   "first_seen": "2026-07-12",
+   "last_seen": "2026-07-12",
+   "active_days": 1,
+   "pain": 4,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "почему",
+    "думал",
+    "бобров",
+    "сердце",
+    "сидит",
+    "когда",
+    "помогает",
+    "вообще",
+    "нашли",
+    "факту",
+    "проблемы",
+    "мозгоправу",
+    "этого",
+    "плакать",
+    "армии"
+   ]
+  },
+  {
+   "author": "Artemiy😈😇",
+   "alias": "Artemiy😈😇",
+   "messages": 49,
+   "chars": 2581,
+   "avg_len": 52.7,
+   "night_share": 0.82,
+   "reply_share": 0.24,
+   "reactions_got": 1,
+   "reactions_given": 2,
+   "media": 1,
+   "voice": 0,
+   "first_seen": "2026-07-05",
+   "last_seen": "2026-08-01",
+   "active_days": 3,
+   "pain": 1,
+   "rage": 10,
+   "gamble": 1,
+   "top_words": [
+    "человек",
+    "может",
+    "человека",
+    "вроде",
+    "сегодня",
+    "каких",
+    "решил",
+    "какая",
+    "адекватно",
+    "предложил",
+    "встретиться",
+    "начать",
+    "нормально",
+    "захочет",
+    "взрослый"
+   ]
+  },
+  {
+   "author": "Максим Пименов",
+   "alias": "Максим Пименов",
+   "messages": 48,
+   "chars": 1639,
+   "avg_len": 34.1,
+   "night_share": 0.56,
+   "reply_share": 0.06,
+   "reactions_got": 0,
+   "reactions_given": 0,
+   "media": 7,
+   "voice": 0,
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-08-03",
+   "active_days": 5,
+   "pain": 0,
+   "rage": 0,
+   "gamble": 4,
+   "top_words": [
+    "профукал",
+    "вывод",
+    "больше",
+    "фрибет",
+    "ставок",
+    "вейджер",
+    "пипец",
+    "походу",
+    "резюме",
+    "старт",
+    "матча",
+    "видимо",
+    "студия",
+    "аналитики",
+    "прочий"
+   ]
+  },
+  {
+   "author": "•ᴜɴᴄᴇʟʟᴨуньᴋ•",
+   "alias": "•ᴜɴᴄᴇʟʟᴨуньᴋ•",
+   "messages": 47,
+   "chars": 1348,
+   "avg_len": 28.7,
+   "night_share": 0.0,
+   "reply_share": 0.62,
+   "reactions_got": 2,
+   "reactions_given": 0,
+   "media": 0,
+   "voice": 0,
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "active_days": 1,
+   "pain": 2,
+   "rage": 2,
+   "gamble": 0,
+   "top_words": [
+    "жизнь",
+    "ахаха",
+    "понятно",
+    "человека",
+    "зрения",
+    "тогда",
+    "можно",
+    "привет",
+    "молодая",
+    "сказке",
+    "долбаебов",
+    "ебешь",
+    "живем",
+    "кстати",
+    "можешь"
+   ]
+  },
+  {
+   "author": "Владимир",
+   "alias": "Владимир",
+   "messages": 44,
+   "chars": 1857,
+   "avg_len": 42.2,
+   "night_share": 0.02,
+   "reply_share": 0.55,
+   "reactions_got": 3,
+   "reactions_given": 19,
+   "media": 9,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-29",
+   "active_days": 3,
+   "pain": 3,
+   "rage": 2,
+   "gamble": 0,
+   "top_words": [
+    "столько",
+    "знание",
+    "когда",
+    "смотрел",
+    "другой",
+    "сколько",
+    "спойлеры",
+    "новый",
+    "только",
+    "сезоны",
+    "интернета",
+    "такая",
+    "строчке",
+    "напоминает",
+    "будто"
+   ]
+  },
+  {
+   "author": "Trap Tovarov",
+   "alias": "Trap Tovarov",
+   "messages": 43,
+   "chars": 1390,
+   "avg_len": 32.3,
+   "night_share": 0.98,
+   "reply_share": 0.67,
+   "reactions_got": 0,
+   "reactions_given": 0,
+   "media": 1,
+   "voice": 1,
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-30",
+   "active_days": 5,
+   "pain": 3,
+   "rage": 0,
+   "gamble": 1,
+   "top_words": [
+    "будет",
+    "будут",
+    "футбол",
+    "испания",
+    "этого",
+    "испанию",
+    "выиграли",
+    "думаю",
+    "скорее",
+    "всего",
+    "понимаю",
+    "чемпион",
+    "товарищи",
+    "ладно",
+    "завтра"
+   ]
+  },
+  {
+   "author": "Данисимо",
+   "alias": "Данисимо",
+   "messages": 42,
+   "chars": 378,
+   "avg_len": 9.0,
+   "night_share": 0.0,
+   "reply_share": 0.12,
+   "reactions_got": 4,
+   "reactions_given": 3,
+   "media": 4,
+   "voice": 4,
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-19",
+   "active_days": 2,
+   "pain": 0,
+   "rage": 1,
+   "gamble": 0,
+   "top_words": [
+    "курсе",
+    "сорри",
+    "взломали",
+    "только",
+    "проснулся",
+    "спама",
+    "хуйня",
+    "борюсь",
+    "ааааа",
+    "вроде",
+    "стрим",
+    "будет",
+    "ооооо",
+    "информации",
+    "движения"
+   ]
+  },
+  {
+   "author": "Алина Сергеевна",
+   "alias": "Алина Сергеевна",
+   "messages": 42,
+   "chars": 1252,
+   "avg_len": 29.8,
+   "night_share": 0.36,
+   "reply_share": 0.43,
+   "reactions_got": 1,
+   "reactions_given": 3,
+   "media": 1,
+   "voice": 1,
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-23",
+   "active_days": 4,
+   "pain": 3,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "будет",
+    "сегодня",
+    "поняла",
+    "вообще",
+    "стрим",
+    "казик",
+    "привет",
+    "ребят",
+    "долго",
+    "походу",
+    "очень",
+    "кажется",
+    "совсем",
+    "пропал",
+    "пропустила"
+   ]
+  },
+  {
+   "author": "Tashik",
+   "alias": "Tashik",
+   "messages": 41,
+   "chars": 969,
+   "avg_len": 23.6,
+   "night_share": 0.0,
+   "reply_share": 0.29,
+   "reactions_got": 1,
+   "reactions_given": 0,
+   "media": 0,
+   "voice": 0,
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "active_days": 1,
+   "pain": 0,
+   "rage": 2,
+   "gamble": 0,
+   "top_words": [
+    "служить",
+    "стрельбище",
+    "больше",
+    "скажу",
+    "служу",
+    "войсковом",
+    "частенько",
+    "остаются",
+    "когда",
+    "стрелял",
+    "вообще",
+    "исполин",
+    "добрый",
+    "вечер",
+    "недавно"
+   ]
+  },
+  {
+   "author": "Хинкаль Хинкалевич",
+   "alias": "Хинкаль Хинкалевич",
+   "messages": 38,
+   "chars": 535,
+   "avg_len": 14.1,
+   "night_share": 0.08,
+   "reply_share": 0.24,
+   "reactions_got": 4,
+   "reactions_given": 1,
+   "media": 15,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-21",
+   "active_days": 8,
+   "pain": 0,
+   "rage": 1,
+   "gamble": 0,
+   "top_words": [
+    "добрый",
+    "доброе",
+    "вечер",
+    "смотрю",
+    "тыгыдык",
+    "гыгык",
+    "спокойной",
+    "проблема",
+    "можно",
+    "закончился",
+    "перешёл",
+    "давай",
+    "башнями",
+    "поменяемся",
+    "жизни"
+   ]
+  },
+  {
+   "author": "Олександр",
+   "alias": "Олександр",
+   "messages": 35,
+   "chars": 714,
+   "avg_len": 20.4,
+   "night_share": 0.69,
+   "reply_share": 0.31,
+   "reactions_got": 2,
+   "reactions_given": 1,
+   "media": 0,
+   "voice": 0,
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-20",
+   "active_days": 3,
+   "pain": 0,
+   "rage": 6,
+   "gamble": 0,
+   "top_words": [
+    "смотрю",
+    "нахуй",
+    "считаю",
+    "димочке",
+    "нужно",
+    "пермак",
+    "выдавать",
+    "площадках",
+    "дмитрий",
+    "спермачек",
+    "заливал",
+    "инфантино",
+    "скзаал",
+    "понял",
+    "сынок"
+   ]
+  },
+  {
+   "author": "Spirited Away",
+   "alias": "Spirited Away",
+   "messages": 32,
+   "chars": 519,
+   "avg_len": 16.2,
+   "night_share": 0.06,
+   "reply_share": 0.47,
+   "reactions_got": 3,
+   "reactions_given": 0,
+   "media": 8,
+   "voice": 0,
+   "first_seen": "2026-07-04",
+   "last_seen": "2026-08-04",
+   "active_days": 8,
+   "pain": 0,
+   "rage": 3,
+   "gamble": 0,
+   "top_words": [
+    "знать",
+    "спасибо",
+    "какой",
+    "ориентации",
+    "михаил",
+    "предупредили",
+    "понял",
+    "дурак",
+    "поступкам",
+    "объективно",
+    "дурачок",
+    "подкинулся",
+    "одинаковых",
+    "слова",
+    "сказать"
+   ]
+  },
+  {
+   "author": "Влад Меньков",
+   "alias": "Влад Меньков",
+   "messages": 32,
+   "chars": 597,
+   "avg_len": 18.7,
+   "night_share": 0.44,
+   "reply_share": 0.47,
+   "reactions_got": 1,
+   "reactions_given": 3,
+   "media": 0,
+   "voice": 0,
+   "first_seen": "2026-07-19",
+   "last_seen": "2026-07-19",
+   "active_days": 1,
+   "pain": 1,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "месси",
+    "кубок",
+    "будет",
+    "хорошо",
+    "аргентина",
+    "должен",
+    "поднять",
+    "правда",
+    "думаешь",
+    "борьба",
+    "завтра",
+    "интересно",
+    "сегодня",
+    "хочешь",
+    "поставлю"
+   ]
+  },
+  {
+   "author": "Куркума",
+   "alias": "Куркума",
+   "messages": 32,
+   "chars": 1188,
+   "avg_len": 37.1,
+   "night_share": 1.0,
+   "reply_share": 0.47,
+   "reactions_got": 11,
+   "reactions_given": 1,
+   "media": 0,
+   "voice": 0,
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "active_days": 1,
+   "pain": 0,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "списка",
+    "сегодня",
+    "будет",
+    "предсказание",
+    "лотерея",
+    "хотите",
+    "здравствуйте",
+    "дорогие",
+    "подопытные",
+    "просто",
+    "интерактивная",
+    "можешь",
+    "учавствовать",
+    "оооооо",
+    "хорошая"
+   ]
+  },
+  {
+   "author": "Aleksandr Kulikov",
+   "alias": "Aleksandr Kulikov",
+   "messages": 31,
+   "chars": 1101,
+   "avg_len": 35.5,
+   "night_share": 0.84,
+   "reply_share": 0.84,
+   "reactions_got": 3,
+   "reactions_given": 5,
+   "media": 1,
+   "voice": 0,
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-23",
+   "active_days": 3,
+   "pain": 0,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "ладно",
+    "творог",
+    "завтрак",
+    "будет",
+    "кролики",
+    "ешьте",
+    "приема",
+    "обязательно",
+    "большие",
+    "порции",
+    "смотря",
+    "какое",
+    "понимаю",
+    "овсянка",
+    "бутик"
+   ]
+  },
+  {
+   "author": "ツ 𝖗𝖔𝖘𝖊.𝖋𝖔𝖌 ツ",
+   "alias": "ツ 𝖗𝖔𝖘𝖊.𝖋𝖔𝖌 ツ",
+   "messages": 30,
+   "chars": 551,
+   "avg_len": 18.4,
+   "night_share": 0.0,
+   "reply_share": 0.53,
+   "reactions_got": 5,
+   "reactions_given": 0,
+   "media": 3,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-10",
+   "active_days": 3,
+   "pain": 1,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "приветик",
+    "спасибо",
+    "ладно",
+    "много",
+    "проснулась",
+    "уведомлений",
+    "увидела",
+    "аниме",
+    "говорил",
+    "ничего",
+    "страшного",
+    "частично",
+    "вашей",
+    "компании",
+    "анимешников"
+   ]
+  },
+  {
+   "author": "ଦୁ ness ଖ ྀི",
+   "alias": "ଦୁ ness ଖ ྀི",
+   "messages": 30,
+   "chars": 259,
+   "avg_len": 8.6,
+   "night_share": 0.2,
+   "reply_share": 0.6,
+   "reactions_got": 2,
+   "reactions_given": 1,
+   "media": 18,
+   "voice": 14,
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-08-01",
+   "active_days": 4,
+   "pain": 0,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "пашка",
+    "который",
+    "рукопашка",
+    "кликухе",
+    "извращенцы",
+    "поступим",
+    "сёдня",
+    "примерно",
+    "столько",
+    "писал",
+    "делаешт",
+    "привет",
+    "здравствуй",
+    "роднулькин",
+    "живешь"
+   ]
+  },
+  {
+   "author": "SabinaMiss",
+   "alias": "SabinaMiss",
+   "messages": 29,
+   "chars": 1151,
+   "avg_len": 39.7,
+   "night_share": 0.17,
+   "reply_share": 0.59,
+   "reactions_got": 9,
+   "reactions_given": 10,
+   "media": 2,
+   "voice": 1,
+   "first_seen": "2026-07-04",
+   "last_seen": "2026-07-29",
+   "active_days": 10,
+   "pain": 1,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "сегодня",
+    "вчера",
+    "алексей",
+    "просто",
+    "такому",
+    "аудитория",
+    "стрим",
+    "много",
+    "ажиотаж",
+    "прорыв",
+    "говорят",
+    "отправила",
+    "какие",
+    "говорил",
+    "прилетит"
+   ]
+  },
+  {
+   "author": "𝕄𝕦𝕩𝕒𝕦𝕁𝕀 Ш𝕒𝕡𝕠𝕩𝕦ℍ",
+   "alias": "𝕄𝕦𝕩𝕒𝕦𝕁𝕀 Ш𝕒𝕡𝕠𝕩𝕦ℍ",
+   "messages": 29,
+   "chars": 944,
+   "avg_len": 32.6,
+   "night_share": 0.1,
+   "reply_share": 0.72,
+   "reactions_got": 0,
+   "reactions_given": 2,
+   "media": 3,
+   "voice": 0,
+   "first_seen": "2026-07-04",
+   "last_seen": "2026-07-24",
+   "active_days": 7,
+   "pain": 0,
+   "rage": 2,
+   "gamble": 0,
+   "top_words": [
+    "через",
+    "нужно",
+    "walli",
+    "гнильём",
+    "пенить",
+    "абоба",
+    "каким",
+    "сказаны",
+    "просто",
+    "делать",
+    "нехуй",
+    "повторяетесь",
+    "нервным",
+    "послать",
+    "нахуй"
+   ]
+  },
+  {
+   "author": "DarkBeard",
+   "alias": "DarkBeard",
+   "messages": 29,
+   "chars": 762,
+   "avg_len": 26.3,
+   "night_share": 0.34,
+   "reply_share": 0.28,
+   "reactions_got": 3,
+   "reactions_given": 2,
+   "media": 5,
+   "voice": 0,
+   "first_seen": "2026-07-19",
+   "last_seen": "2026-07-20",
+   "active_days": 2,
+   "pain": 2,
+   "rage": 0,
+   "gamble": 4,
+   "top_words": [
+    "ставить",
+    "аргентину",
+    "будет",
+    "точно",
+    "закинул",
+    "вывел",
+    "больше",
+    "интересно",
+    "завтра",
+    "понравилось",
+    "игрока",
+    "ставку",
+    "делать",
+    "думаешь",
+    "испании"
+   ]
+  },
+  {
+   "author": "Кот",
+   "alias": "Кот🐈",
+   "messages": 29,
+   "chars": 907,
+   "avg_len": 31.3,
+   "night_share": 0.21,
+   "reply_share": 0.38,
+   "reactions_got": 2,
+   "reactions_given": 0,
+   "media": 3,
+   "voice": 0,
+   "first_seen": "2026-07-19",
+   "last_seen": "2026-08-05",
+   "active_days": 5,
+   "pain": 1,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "чисто",
+    "хорошо",
+    "только",
+    "срать",
+    "хотели",
+    "выиграет",
+    "прочее",
+    "болеют",
+    "бабки",
+    "будет",
+    "лучшее",
+    "испания",
+    "сделает",
+    "аргентинцы",
+    "черти"
+   ]
+  },
+  {
+   "author": "Xander Fuller",
+   "alias": "Xander Fuller",
+   "messages": 29,
+   "chars": 2230,
+   "avg_len": 76.9,
+   "night_share": 1.0,
+   "reply_share": 0.72,
+   "reactions_got": 0,
+   "reactions_given": 5,
+   "media": 0,
+   "voice": 0,
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "active_days": 1,
+   "pain": 1,
+   "rage": 2,
+   "gamble": 0,
+   "top_words": [
+    "будто",
+    "оборона",
+    "вообще",
+    "аргентина",
+    "финала",
+    "чемпионат",
+    "хорошо",
+    "общем",
+    "франция",
+    "испания",
+    "доброй",
+    "помог",
+    "разумеющееся",
+    "исходу",
+    "лучшая"
+   ]
+  },
+  {
+   "author": "Odd Duck",
+   "alias": "Odd Duck",
+   "messages": 27,
+   "chars": 683,
+   "avg_len": 25.3,
+   "night_share": 0.0,
+   "reply_share": 0.41,
+   "reactions_got": 0,
+   "reactions_given": 0,
+   "media": 1,
+   "voice": 0,
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-25",
+   "active_days": 6,
+   "pain": 0,
+   "rage": 1,
+   "gamble": 0,
+   "top_words": [
+    "когда",
+    "больше",
+    "ссылочка",
+    "спасибо",
+    "смотрим",
+    "сантабарбару",
+    "сезон",
+    "опять",
+    "разборки",
+    "твиче",
+    "правильно",
+    "понимаю",
+    "злодей",
+    "британец",
+    "пубертатная"
+   ]
+  },
+  {
+   "author": "⚜️🖤🤍𝐌𝐚𝐤𝐬 𝐯𝐨𝐫𝐢𝐬𝐡𝐤𝐚 𝐬𝐧𝐨𝐯🤍🖤⚜️",
+   "alias": "⚜️🖤🤍𝐌𝐚𝐤𝐬 𝐯𝐨𝐫𝐢𝐬𝐡𝐤𝐚 𝐬𝐧𝐨𝐯🤍🖤⚜️",
+   "messages": 27,
+   "chars": 168,
+   "avg_len": 6.2,
+   "night_share": 0.26,
+   "reply_share": 0.78,
+   "reactions_got": 2,
+   "reactions_given": 1,
+   "media": 15,
+   "voice": 11,
+   "first_seen": "2026-07-26",
+   "last_seen": "2026-08-05",
+   "active_days": 3,
+   "pain": 0,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "завтра",
+    "привета",
+    "денег",
+    "первого",
+    "деньги",
+    "появились",
+    "каждый",
+    "будет",
+    "сегодня",
+    "шашлык",
+    "можно"
+   ]
+  },
+  {
+   "author": "Ed.",
+   "alias": "Ed.",
+   "messages": 26,
+   "chars": 544,
+   "avg_len": 20.9,
+   "night_share": 0.35,
+   "reply_share": 0.19,
+   "reactions_got": 11,
+   "reactions_given": 1,
+   "media": 4,
+   "voice": 0,
+   "first_seen": "2026-07-05",
+   "last_seen": "2026-07-26",
+   "active_days": 9,
+   "pain": 0,
+   "rage": 1,
+   "gamble": 0,
+   "top_words": [
+    "развитие",
+    "забирать",
+    "https",
+    "music",
+    "yandex",
+    "album",
+    "track",
+    "medium",
+    "абоба",
+    "вылазит",
+    "можно",
+    "только",
+    "нужно",
+    "петушиный",
+    "подгон"
+   ]
+  },
+  {
+   "author": ".",
+   "alias": ".",
+   "messages": 26,
+   "chars": 537,
+   "avg_len": 20.7,
+   "night_share": 0.08,
+   "reply_share": 0.5,
+   "reactions_got": 3,
+   "reactions_given": 5,
+   "media": 1,
+   "voice": 0,
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-07-31",
+   "active_days": 8,
+   "pain": 0,
+   "rage": 2,
+   "gamble": 0,
+   "top_words": [
+    "будет",
+    "сегодня",
+    "стрим",
+    "ребят",
+    "говорил",
+    "прохождение",
+    "ассасина",
+    "может",
+    "хочется",
+    "смешно",
+    "ыыыыы",
+    "ждемсс",
+    "тогда",
+    "лапшан",
+    "стримит"
+   ]
+  },
+  {
+   "author": "ANDROID",
+   "alias": "ANDROID",
+   "messages": 26,
+   "chars": 382,
+   "avg_len": 14.7,
+   "night_share": 0.0,
+   "reply_share": 0.54,
+   "reactions_got": 2,
+   "reactions_given": 2,
+   "media": 0,
+   "voice": 0,
+   "first_seen": "2026-07-19",
+   "last_seen": "2026-07-19",
+   "active_days": 1,
+   "pain": 1,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "будет",
+    "спасибо",
+    "лучше",
+    "ставить",
+    "стрим",
+    "заработала",
+    "грузит",
+    "сегодня",
+    "финал",
+    "смотреть",
+    "братци",
+    "восколько",
+    "начало",
+    "стрима",
+    "подержать"
+   ]
+  },
+  {
+   "author": "Bio Manyak",
+   "alias": "Bio Manyak",
+   "messages": 25,
+   "chars": 1227,
+   "avg_len": 49.1,
+   "night_share": 0.88,
+   "reply_share": 0.48,
+   "reactions_got": 0,
+   "reactions_given": 1,
+   "media": 0,
+   "voice": 0,
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-07-11",
+   "active_days": 1,
+   "pain": 1,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "геолку",
+    "предположительно",
+    "приехали",
+    "ребят",
+    "доброй",
+    "умеет",
+    "отслеживать",
+    "номеру",
+    "людей",
+    "похищать",
+    "такое",
+    "навряд",
+    "пусть",
+    "заходят",
+    "давно"
+   ]
+  },
+  {
+   "author": "John Doe",
+   "alias": "John Doe",
+   "messages": 25,
+   "chars": 220,
+   "avg_len": 8.8,
+   "night_share": 0.0,
+   "reply_share": 0.0,
+   "reactions_got": 0,
+   "reactions_given": 0,
+   "media": 7,
+   "voice": 0,
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-08-05",
+   "active_days": 4,
+   "pain": 0,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "сегодня",
+    "рыбалка",
+    "ыбалка",
+    "вчера",
+    "ловил",
+    "abobis",
+    "masturbating",
+    "абобис",
+    "разведчик",
+    "шпион",
+    "генерал",
+    "майор",
+    "машинки",
+    "верные",
+    "прокси"
+   ]
+  },
+  {
+   "author": "Елена",
+   "alias": "Елена",
+   "messages": 22,
+   "chars": 434,
+   "avg_len": 19.7,
+   "night_share": 0.0,
+   "reply_share": 0.77,
+   "reactions_got": 5,
+   "reactions_given": 0,
+   "media": 2,
+   "voice": 0,
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-30",
+   "active_days": 7,
+   "pain": 1,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "доброе",
+    "приветик",
+    "туточки",
+    "боюсь",
+    "светы",
+    "получить",
+    "люлей",
+    "понятненько",
+    "хорошо",
+    "советы",
+    "специально",
+    "делаю",
+    "могла",
+    "начать",
+    "делать"
+   ]
+  },
+  {
+   "author": "Efendi",
+   "alias": "Efendi",
+   "messages": 21,
+   "chars": 553,
+   "avg_len": 26.3,
+   "night_share": 0.38,
+   "reply_share": 0.43,
+   "reactions_got": 1,
+   "reactions_given": 2,
+   "media": 1,
+   "voice": 0,
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-20",
+   "active_days": 6,
+   "pain": 1,
+   "rage": 0,
+   "gamble": 0,
+   "top_words": [
+    "будет",
+    "сегодня",
+    "лёшка",
+    "дракона",
+    "выгуливать",
+    "смотреть",
+    "когда",
+    "света",
+    "такое",
+    "скачиваю",
+    "смотрю",
+    "вовремя",
+    "собрал",
+    "нечто",
+    "озвучка"
+   ]
+  }
+ ],
+ "top_words": [
+  [
+   "что",
+   2727
+  ],
+  [
+   "это",
+   1962
+  ],
+  [
+   "так",
+   1817
+  ],
+  [
+   "как",
+   1716
+  ],
+  [
+   "там",
+   1552
+  ],
+  [
+   "меня",
+   1127
+  ],
+  [
+   "все",
+   1063
+  ],
+  [
+   "уже",
+   1041
+  ],
+  [
+   "вот",
+   1031
+  ],
+  [
+   "мне",
+   947
+  ],
+  [
+   "тут",
+   791
+  ],
+  [
+   "будет",
+   741
+  ],
+  [
+   "нет",
+   738
+  ],
+  [
+   "если",
+   721
+  ],
+  [
+   "есть",
+   714
+  ],
+  [
+   "просто",
+   700
+  ],
+  [
+   "его",
+   638
+  ],
+  [
+   "тоже",
+   613
+  ],
+  [
+   "надо",
+   607
+  ],
+  [
+   "или",
+   588
+  ],
+  [
+   "кто",
+   578
+  ],
+  [
+   "было",
+   556
+  ],
+  [
+   "тебя",
+   554
+  ],
+  [
+   "только",
+   532
+  ],
+  [
+   "еще",
+   527
+  ],
+  [
+   "тебе",
+   524
+  ],
+  [
+   "всё",
+   422
+  ],
+  [
+   "они",
+   414
+  ],
+  [
+   "где",
+   408
+  ],
+  [
+   "ещё",
+   401
+  ],
+  [
+   "когда",
+   398
+  ],
+  [
+   "про",
+   397
+  ],
+  [
+   "даже",
+   396
+  ],
+  [
+   "блять",
+   379
+  ],
+  [
+   "можно",
+   369
+  ],
+  [
+   "она",
+   365
+  ],
+  [
+   "был",
+   350
+  ],
+  [
+   "может",
+   345
+  ],
+  [
+   "нахуй",
+   338
+  ],
+  [
+   "раз",
+   337
+  ],
+  [
+   "для",
+   335
+  ],
+  [
+   "пока",
+   333
+  ],
+  [
+   "вроде",
+   331
+  ],
+  [
+   "ему",
+   320
+  ],
+  [
+   "вообще",
+   313
+  ],
+  [
+   "тогда",
+   300
+  ],
+  [
+   "без",
+   298
+  ],
+  [
+   "сейчас",
+   295
+  ],
+  [
+   "всем",
+   284
+  ],
+  [
+   "потом",
+   284
+  ],
+  [
+   "него",
+   276
+  ],
+  [
+   "бля",
+   269
+  ],
+  [
+   "больше",
+   263
+  ],
+  [
+   "нас",
+   263
+  ],
+  [
+   "такое",
+   255
+  ],
+  [
+   "сегодня",
+   250
+  ],
+  [
+   "знаю",
+   245
+  ],
+  [
+   "понял",
+   239
+  ],
+  [
+   "сам",
+   237
+  ],
+  [
+   "пиздец",
+   232
+  ],
+  [
+   "какой",
+   227
+  ],
+  [
+   "щас",
+   221
+  ],
+  [
+   "давай",
+   219
+  ],
+  [
+   "прям",
+   216
+  ],
+  [
+   "ага",
+   215
+  ],
+  [
+   "чтобы",
+   210
+  ],
+  [
+   "буду",
+   209
+  ],
+  [
+   "могу",
+   208
+  ],
+  [
+   "очень",
+   207
+  ],
+  [
+   "кстати",
+   207
+  ],
+  [
+   "ладно",
+   205
+  ],
+  [
+   "почему",
+   204
+  ],
+  [
+   "чем",
+   204
+  ],
+  [
+   "ничего",
+   204
+  ],
+  [
+   "сказал",
+   200
+  ],
+  [
+   "похуй",
+   199
+  ],
+  [
+   "лучше",
+   197
+  ],
+  [
+   "после",
+   194
+  ],
+  [
+   "всех",
+   194
+  ],
+  [
+   "этого",
+   193
+  ],
+  [
+   "такой",
+   193
+  ],
+  [
+   "чате",
+   190
+  ],
+  [
+   "стрим",
+   189
+  ],
+  [
+   "хорошо",
+   189
+  ],
+  [
+   "кого",
+   186
+  ],
+  [
+   "много",
+   186
+  ],
+  [
+   "день",
+   183
+  ],
+  [
+   "опять",
+   182
+  ],
+  [
+   "через",
+   180
+  ],
+  [
+   "окак",
+   179
+  ],
+  [
+   "теперь",
+   177
+  ],
+  [
+   "норм",
+   177
+  ],
+  [
+   "вас",
+   175
+  ],
+  [
+   "дед",
+   171
+  ],
+  [
+   "была",
+   170
+  ],
+  [
+   "точно",
+   166
+  ],
+  [
+   "думаю",
+   166
+  ],
+  [
+   "хочу",
+   165
+  ],
+  [
+   "этот",
+   160
+  ],
+  [
+   "себе",
+   159
+  ],
+  [
+   "один",
+   157
+  ],
+  [
+   "чего",
+   157
+  ],
+  [
+   "всегда",
+   155
+  ],
+  [
+   "спать",
+   153
+  ],
+  [
+   "быть",
+   152
+  ],
+  [
+   "хоть",
+   151
+  ],
+  [
+   "бан",
+   151
+  ],
+  [
+   "привет",
+   150
+  ],
+  [
+   "потому",
+   148
+  ],
+  [
+   "хотя",
+   148
+  ],
+  [
+   "чат",
+   147
+  ],
+  [
+   "куда",
+   146
+  ],
+  [
+   "сколько",
+   144
+  ],
+  [
+   "минут",
+   144
+  ],
+  [
+   "под",
+   142
+  ],
+  [
+   "чтоб",
+   141
+  ],
+  [
+   "человек",
+   141
+  ],
+  [
+   "тот",
+   140
+  ],
+  [
+   "вчера",
+   139
+  ],
+  [
+   "сука",
+   138
+  ],
+  [
+   "абоба",
+   138
+  ],
+  [
+   "делать",
+   136
+  ],
+  [
+   "них",
+   135
+  ],
+  [
+   "зачем",
+   135
+  ],
+  [
+   "лет",
+   132
+  ],
+  [
+   "сразу",
+   131
+  ],
+  [
+   "всего",
+   129
+  ],
+  [
+   "время",
+   127
+  ],
+  [
+   "смотреть",
+   125
+  ],
+  [
+   "значит",
+   125
+  ],
+  [
+   "нету",
+   125
+  ],
+  [
+   "чисто",
+   125
+  ],
+  [
+   "спасибо",
+   124
+  ],
+  [
+   "видел",
+   123
+  ],
+  [
+   "леха",
+   123
+  ],
+  [
+   "хуй",
+   122
+  ],
+  [
+   "этом",
+   121
+  ],
+  [
+   "какая",
+   121
+  ],
+  [
+   "конечно",
+   119
+  ],
+  [
+   "какие",
+   119
+  ],
+  [
+   "говорил",
+   119
+  ],
+  [
+   "почти",
+   116
+  ],
+  [
+   "года",
+   115
+  ],
+  [
+   "помню",
+   115
+  ],
+  [
+   "ебать",
+   114
+  ],
+  [
+   "чуть",
+   113
+  ],
+  [
+   "завтра",
+   113
+  ],
+  [
+   "такая",
+   112
+  ],
+  [
+   "нужно",
+   112
+  ],
+  [
+   "такие",
+   110
+  ],
+  [
+   "https",
+   109
+  ],
+  [
+   "себя",
+   109
+  ],
+  [
+   "нихуя",
+   109
+  ],
+  [
+   "главное",
+   109
+  ],
+  [
+   "ночи",
+   108
+  ],
+  [
+   "kick",
+   108
+  ],
+  [
+   "будут",
+   108
+  ],
+  [
+   "такого",
+   107
+  ],
+  [
+   "кому",
+   107
+  ],
+  [
+   "моя",
+   107
+  ],
+  [
+   "факт",
+   106
+  ],
+  [
+   "люди",
+   106
+  ],
+  [
+   "аниме",
+   105
+  ],
+  [
+   "туда",
+   105
+  ],
+  [
+   "который",
+   104
+  ],
+  [
+   "того",
+   104
+  ],
+  [
+   "при",
+   104
+  ],
+  [
+   "понятно",
+   102
+  ],
+  [
+   "нормально",
+   102
+  ],
+  [
+   "были",
+   101
+  ],
+  [
+   "давно",
+   101
+  ],
+  [
+   "нам",
+   101
+  ],
+  [
+   "именно",
+   99
+  ],
+  [
+   "хпч",
+   99
+  ],
+  [
+   "знаешь",
+   98
+  ],
+  [
+   "правда",
+   97
+  ],
+  [
+   "плюс",
+   97
+  ],
+  [
+   "думал",
+   97
+  ],
+  [
+   "никто",
+   97
+  ],
+  [
+   "ричи",
+   97
+  ],
+  [
+   "смотрел",
+   96
+  ],
+  [
+   "дня",
+   96
+  ],
+  [
+   "говорю",
+   96
+  ],
+  [
+   "вам",
+   94
+  ],
+  [
+   "поэтому",
+   94
+  ],
+  [
+   "вопрос",
+   94
+  ],
+  [
+   "сделать",
+   93
+  ],
+  [
+   "нада",
+   92
+  ],
+  [
+   "смотрю",
+   91
+  ],
+  [
+   "стриме",
+   91
+  ],
+  [
+   "иди",
+   91
+  ],
+  [
+   "пена",
+   91
+  ],
+  [
+   "знает",
+   89
+  ],
+  [
+   "типа",
+   89
+  ],
+  [
+   "мой",
+   89
+  ],
+  [
+   "ним",
+   88
+  ],
+  [
+   "два",
+   88
+  ],
+  [
+   "пару",
+   88
+  ],
+  [
+   "либо",
+   87
+  ],
+  [
+   "пойду",
+   87
+  ],
+  [
+   "дурак",
+   87
+  ],
+  [
+   "хочешь",
+   87
+  ],
+  [
+   "первый",
+   86
+  ],
+  [
+   "работает",
+   86
+  ],
+  [
+   "оно",
+   85
+  ],
+  [
+   "стоит",
+   85
+  ],
+  [
+   "которые",
+   85
+  ],
+  [
+   "пусть",
+   84
+  ],
+  [
+   "нибудь",
+   84
+  ],
+  [
+   "слова",
+   84
+  ],
+  [
+   "дальше",
+   82
+  ],
+  [
+   "жаль",
+   82
+  ],
+  [
+   "интересно",
+   82
+  ],
+  [
+   "том",
+   82
+  ],
+  [
+   "будем",
+   81
+  ],
+  [
+   "самое",
+   81
+  ],
+  [
+   "сама",
+   81
+  ],
+  [
+   "матч",
+   81
+  ],
+  [
+   "нельзя",
+   80
+  ],
+  [
+   "видимо",
+   80
+  ],
+  [
+   "hardplay",
+   79
+  ],
+  [
+   "понимаю",
+   79
+  ],
+  [
+   "говорит",
+   79
+  ],
+  [
+   "тем",
+   78
+  ],
+  [
+   "часа",
+   78
+  ],
+  [
+   "будешь",
+   78
+  ],
+  [
+   "дело",
+   77
+  ],
+  [
+   "здесь",
+   77
+  ],
+  [
+   "сказать",
+   77
+  ],
+  [
+   "мало",
+   76
+  ],
+  [
+   "более",
+   76
+  ],
+  [
+   "можешь",
+   76
+  ],
+  [
+   "правильно",
+   75
+  ],
+  [
+   "человека",
+   74
+  ],
+  [
+   "хочет",
+   74
+  ],
+  [
+   "скоро",
+   73
+  ],
+  [
+   "людей",
+   73
+  ],
+  [
+   "хуйня",
+   72
+  ],
+  [
+   "хард",
+   72
+  ],
+  [
+   "реально",
+   72
+  ],
+  [
+   "хотел",
+   72
+  ],
+  [
+   "стримы",
+   71
+  ],
+  [
+   "снова",
+   70
+  ],
+  [
+   "немного",
+   70
+  ],
+  [
+   "хватит",
+   70
+  ],
+  [
+   "эти",
+   70
+  ],
+  [
+   "каждый",
+   69
+  ],
+  [
+   "будто",
+   69
+  ],
+  [
+   "зато",
+   69
+  ],
+  [
+   "могут",
+   69
+  ],
+  [
+   "хороший",
+   68
+  ],
+  [
+   "таки",
+   68
+  ],
+  [
+   "приятного",
+   68
+  ],
+  [
+   "раньше",
+   68
+  ],
+  [
+   "поздно",
+   68
+  ],
+  [
+   "кста",
+   67
+  ],
+  [
+   "добрый",
+   67
+  ],
+  [
+   "одна",
+   67
+  ],
+  [
+   "написал",
+   67
+  ],
+  [
+   "иногда",
+   67
+  ],
+  [
+   "дома",
+   67
+  ],
+  [
+   "сделал",
+   67
+  ],
+  [
+   "ней",
+   67
+  ],
+  [
+   "win",
+   66
+  ],
+  [
+   "эту",
+   66
+  ],
+  [
+   "пожалуйста",
+   66
+  ],
+  [
+   "другой",
+   65
+  ],
+  [
+   "деньги",
+   65
+  ],
+  [
+   "начал",
+   64
+  ],
+  [
+   "новый",
+   64
+  ],
+  [
+   "год",
+   64
+  ],
+  [
+   "никогда",
+   63
+  ],
+  [
+   "чет",
+   63
+  ],
+  [
+   "играть",
+   63
+  ],
+  [
+   "утра",
+   63
+  ],
+  [
+   "типо",
+   63
+  ],
+  [
+   "люблю",
+   63
+  ],
+  [
+   "назад",
+   62
+  ],
+  [
+   "равно",
+   62
+  ],
+  [
+   "одно",
+   61
+  ],
+  [
+   "эта",
+   61
+  ],
+  [
+   "телефон",
+   61
+  ],
+  [
+   "надеюсь",
+   61
+  ],
+  [
+   "скорее",
+   60
+  ],
+  [
+   "таких",
+   60
+  ],
+  [
+   "жизни",
+   60
+  ],
+  [
+   "вижу",
+   60
+  ],
+  [
+   "сюда",
+   60
+  ],
+  [
+   "фото",
+   60
+  ],
+  [
+   "видео",
+   60
+  ],
+  [
+   "кик",
+   60
+  ],
+  [
+   "одного",
+   59
+  ],
+  [
+   "часов",
+   59
+  ],
+  [
+   "ясно",
+   59
+  ],
+  [
+   "футбол",
+   59
+  ],
+  [
+   "промокод",
+   58
+  ],
+  [
+   "говорят",
+   58
+  ],
+  [
+   "этой",
+   58
+  ],
+  [
+   "дали",
+   58
+  ],
+  [
+   "случае",
+   58
+  ],
+  [
+   "ааа",
+   58
+  ],
+  [
+   "кайф",
+   58
+  ],
+  [
+   "рублей",
+   57
+  ],
+  [
+   "лвл",
+   57
+  ],
+  [
+   "весь",
+   57
+  ],
+  [
+   "тобой",
+   57
+  ],
+  [
+   "свои",
+   57
+  ],
+  [
+   "нее",
+   57
+  ],
+  [
+   "пол",
+   56
+  ],
+  [
+   "делал",
+   56
+  ],
+  [
+   "месяц",
+   56
+  ],
+  [
+   "против",
+   56
+  ],
+  [
+   "согласен",
+   55
+  ],
+  [
+   "писать",
+   55
+  ],
+  [
+   "доброе",
+   55
+  ],
+  [
+   "com",
+   55
+  ],
+  [
+   "получается",
+   55
+  ],
+  [
+   "друг",
+   55
+  ],
+  [
+   "свой",
+   55
+  ],
+  [
+   "решил",
+   55
+  ],
+  [
+   "заносим",
+   54
+  ],
+  [
+   "пропускай",
+   54
+  ],
+  [
+   "постоянной",
+   54
+  ],
+  [
+   "деда",
+   54
+  ],
+  [
+   "делает",
+   54
+  ],
+  [
+   "походу",
+   54
+  ],
+  [
+   "сначала",
+   54
+  ],
+  [
+   "должен",
+   54
+  ],
+  [
+   "откуда",
+   54
+  ],
+  [
+   "раздачей",
+   53
+  ],
+  [
+   "бонусов",
+   53
+  ],
+  [
+   "халявой",
+   53
+  ],
+  [
+   "столько",
+   53
+  ],
+  [
+   "ахахах",
+   53
+  ],
+  [
+   "час",
+   53
+  ],
+  [
+   "чел",
+   53
+  ],
+  [
+   "топ",
+   53
+  ],
+  [
+   "скинуть",
+   53
+  ],
+  [
+   "жизнь",
+   53
+  ],
+  [
+   "весело",
+   53
+  ],
+  [
+   "кажется",
+   53
+  ],
+  [
+   "аргентина",
+   53
+  ],
+  [
+   "неа",
+   52
+  ],
+  [
+   "зря",
+   52
+  ],
+  [
+   "скажу",
+   51
+  ],
+  [
+   "утро",
+   51
+  ],
+  [
+   "писал",
+   51
+  ],
+  [
+   "наверное",
+   51
+  ],
+  [
+   "скажи",
+   51
+  ],
+  [
+   "впн",
+   51
+  ],
+  [
+   "чата",
+   51
+  ],
+  [
+   "дать",
+   51
+  ],
+  [
+   "быстро",
+   50
+  ],
+  [
+   "игры",
+   50
+  ],
+  [
+   "данкин",
+   50
+  ],
+  [
+   "этим",
+   50
+  ],
+  [
+   "жду",
+   50
+  ],
+  [
+   "жопу",
+   50
+  ],
+  [
+   "второй",
+   49
+  ],
+  [
+   "сильно",
+   49
+  ],
+  [
+   "ооо",
+   49
+  ],
+  [
+   "ток",
+   49
+  ],
+  [
+   "бывает",
+   49
+  ],
+  [
+   "вместе",
+   49
+  ],
+  [
+   "слишком",
+   49
+  ],
+  [
+   "пишет",
+   49
+  ],
+  [
+   "пздц",
+   48
+  ],
+  [
+   "знал",
+   48
+  ],
+  [
+   "меньше",
+   48
+  ],
+  [
+   "часто",
+   48
+  ],
+  [
+   "исполин",
+   48
+  ],
+  [
+   "долго",
+   48
+  ],
+  [
+   "смотри",
+   47
+  ],
+  [
+   "какую",
+   47
+  ],
+  [
+   "найти",
+   47
+  ],
+  [
+   "скучно",
+   47
+  ],
+  [
+   "всю",
+   47
+  ],
+  [
+   "нахуя",
+   47
+  ],
+  [
+   "асу",
+   47
+  ],
+  [
+   "самый",
+   47
+  ],
+  [
+   "слово",
+   47
+  ],
+  [
+   "вечер",
+   46
+  ],
+  [
+   "игра",
+   46
+  ],
+  [
+   "домой",
+   46
+  ],
+  [
+   "возможно",
+   46
+  ],
+  [
+   "сообщения",
+   46
+  ],
+  [
+   "свою",
+   46
+  ],
+  [
+   "сезон",
+   45
+  ],
+  [
+   "забыл",
+   45
+  ],
+  [
+   "везде",
+   45
+  ],
+  [
+   "несколько",
+   45
+  ],
+  [
+   "хули",
+   45
+  ],
+  [
+   "твой",
+   45
+  ],
+  [
+   "пошел",
+   45
+  ],
+  [
+   "нравится",
+   45
+  ],
+  [
+   "лишь",
+   45
+  ],
+  [
+   "сидит",
+   45
+  ],
+  [
+   "недавно",
+   45
+  ],
+  [
+   "видно",
+   45
+  ],
+  [
+   "раза",
+   44
+  ]
+ ],
+ "top_phrases": [
+  [
+   "так что",
+   147
+  ],
+  [
+   "потому что",
+   134
+  ],
+  [
+   "что это",
+   72
+  ],
+  [
+   "как раз",
+   71
+  ],
+  [
+   "что там",
+   68
+  ],
+  [
+   "вот это",
+   62
+  ],
+  [
+   "заносим win",
+   54
+  ],
+  [
+   "win промокод",
+   54
+  ],
+  [
+   "промокод hardplay",
+   54
+  ],
+  [
+   "заносим win промокод",
+   54
+  ],
+  [
+   "win промокод hardplay",
+   54
+  ],
+  [
+   "как будто",
+   54
+  ],
+  [
+   "hardplay пропускай",
+   53
+  ],
+  [
+   "пропускай стримы",
+   53
+  ],
+  [
+   "стримы kick",
+   53
+  ],
+  [
+   "kick раздачей",
+   53
+  ],
+  [
+   "раздачей бонусов",
+   53
+  ],
+  [
+   "бонусов постоянной",
+   53
+  ],
+  [
+   "постоянной халявой",
+   53
+  ],
+  [
+   "промокод hardplay пропускай",
+   53
+  ],
+  [
+   "hardplay пропускай стримы",
+   53
+  ],
+  [
+   "пропускай стримы kick",
+   53
+  ],
+  [
+   "стримы kick раздачей",
+   53
+  ],
+  [
+   "kick раздачей бонусов",
+   53
+  ],
+  [
+   "раздачей бонусов постоянной",
+   53
+  ],
+  [
+   "бонусов постоянной халявой",
+   53
+  ],
+  [
+   "или нет",
+   53
+  ],
+  [
+   "сказал что",
+   52
+  ],
+  [
+   "это уже",
+   46
+  ],
+  [
+   "вот так",
+   46
+  ],
+  [
+   "может быть",
+   45
+  ],
+  [
+   "меня есть",
+   41
+  ],
+  [
+   "что так",
+   41
+  ],
+  [
+   "мне кажется",
+   40
+  ],
+  [
+   "скорее всего",
+   38
+  ],
+  [
+   "как так",
+   37
+  ],
+  [
+   "знаю что",
+   37
+  ],
+  [
+   "все равно",
+   37
+  ],
+  [
+   "если что",
+   36
+  ],
+  [
+   "там уже",
+   36
+  ],
+  [
+   "как там",
+   34
+  ],
+  [
+   "это все",
+   34
+  ],
+  [
+   "это как",
+   34
+  ],
+  [
+   "как всегда",
+   34
+  ],
+  [
+   "том что",
+   33
+  ],
+  [
+   "доброй ночи",
+   33
+  ],
+  [
+   "тут уже",
+   33
+  ],
+  [
+   "доброе утро",
+   32
+  ],
+  [
+   "надо было",
+   32
+  ],
+  [
+   "спокойной ночи",
+   31
+  ],
+  [
+   "что тут",
+   31
+  ],
+  [
+   "каждый день",
+   31
+  ],
+  [
+   "говорил что",
+   30
+  ],
+  [
+   "это было",
+   30
+  ],
+  [
+   "просто так",
+   30
+  ],
+  [
+   "это так",
+   30
+  ],
+  [
+   "https kick",
+   29
+  ],
+  [
+   "kick com",
+   29
+  ],
+  [
+   "com hardplayofficial",
+   29
+  ],
+  [
+   "https kick com",
+   29
+  ],
+  [
+   "kick com hardplayofficial",
+   29
+  ],
+  [
+   "тут https",
+   29
+  ],
+  [
+   "что мне",
+   29
+  ],
+  [
+   "сладких снов",
+   29
+  ],
+  [
+   "пока что",
+   28
+  ],
+  [
+   "что они",
+   27
+  ],
+  [
+   "все таки",
+   27
+  ],
+  [
+   "как минимум",
+   27
+  ],
+  [
+   "первый раз",
+   26
+  ],
+  [
+   "что будет",
+   26
+  ],
+  [
+   "халявой стрим",
+   26
+  ],
+  [
+   "постоянной халявой стрим",
+   26
+  ],
+  [
+   "сих пор",
+   26
+  ],
+  [
+   "вот как",
+   26
+  ],
+  [
+   "https live",
+   26
+  ],
+  [
+   "live vkvideo",
+   26
+  ],
+  [
+   "https live vkvideo",
+   26
+  ],
+  [
+   "чуть чуть",
+   25
+  ],
+  [
+   "халявой kick",
+   25
+  ],
+  [
+   "kick https",
+   25
+  ],
+  [
+   "постоянной халявой kick",
+   25
+  ],
+  [
+   "халявой kick https",
+   25
+  ],
+  [
+   "kick https kick",
+   25
+  ],
+  [
+   "что все",
+   25
+  ],
+  [
+   "там все",
+   25
+  ],
+  [
+   "так как",
+   25
+  ],
+  [
+   "для меня",
+   25
+  ],
+  [
+   "vkvideo hardplay",
+   25
+  ],
+  [
+   "live vkvideo hardplay",
+   25
+  ],
+  [
+   "как мне",
+   24
+  ],
+  [
+   "что такое",
+   24
+  ],
+  [
+   "что его",
+   24
+  ],
+  [
+   "что меня",
+   24
+  ],
+  [
+   "меня тоже",
+   24
+  ],
+  [
+   "так вот",
+   24
+  ],
+  [
+   "всё равно",
+   24
+  ],
+  [
+   "всем привет",
+   24
+  ],
+  [
+   "тут https live",
+   24
+  ],
+  [
+   "меня уже",
+   23
+  ],
+  [
+   "chiki briki",
+   23
+  ],
+  [
+   "или как",
+   23
+  ],
+  [
+   "хуй знает",
+   23
+  ],
+  [
+   "всё таки",
+   23
+  ],
+  [
+   "даже если",
+   23
+  ],
+  [
+   "как тебе",
+   22
+  ],
+  [
+   "уже давно",
+   22
+  ],
+  [
+   "вроде как",
+   22
+  ],
+  [
+   "это всё",
+   22
+  ],
+  [
+   "только что",
+   22
+  ],
+  [
+   "хорошо что",
+   22
+  ],
+  [
+   "мне тоже",
+   22
+  ],
+  [
+   "фан клуб",
+   22
+  ],
+  [
+   "радость моя",
+   22
+  ],
+  [
+   "добрый вечер",
+   21
+  ],
+  [
+   "стрим тут",
+   21
+  ],
+  [
+   "как это",
+   21
+  ],
+  [
+   "youtube com",
+   21
+  ],
+  [
+   "самом деле",
+   21
+  ],
+  [
+   "что было",
+   21
+  ],
+  [
+   "тут все",
+   21
+  ],
+  [
+   "уже все",
+   21
+  ],
+  [
+   "главное что",
+   21
+  ],
+  [
+   "вот тут",
+   20
+  ],
+  [
+   "так это",
+   20
+  ],
+  [
+   "там было",
+   20
+  ],
+  [
+   "халявой стрим тут",
+   20
+  ],
+  [
+   "стрим тут https",
+   20
+  ],
+  [
+   "вот думаю",
+   20
+  ],
+  [
+   "думаю что",
+   20
+  ],
+  [
+   "что тебя",
+   20
+  ],
+  [
+   "давай будем",
+   20
+  ],
+  [
+   "нас всех",
+   20
+  ],
+  [
+   "это пиздец",
+   19
+  ],
+  [
+   "там как",
+   19
+  ],
+  [
+   "все норм",
+   19
+  ],
+  [
+   "меня нет",
+   19
+  ],
+  [
+   "после этого",
+   18
+  ],
+  [
+   "это что",
+   18
+  ],
+  [
+   "как его",
+   18
+  ],
+  [
+   "кто там",
+   18
+  ],
+  [
+   "для тебя",
+   18
+  ],
+  [
+   "того что",
+   18
+  ],
+  [
+   "так есть",
+   18
+  ],
+  [
+   "стрим будет",
+   18
+  ],
+  [
+   "как понял",
+   18
+  ],
+  [
+   "это вообще",
+   18
+  ],
+  [
+   "так понял",
+   18
+  ],
+  [
+   "друг друга",
+   18
+  ],
+  [
+   "один раз",
+   17
+  ],
+  [
+   "тем более",
+   17
+  ],
+  [
+   "если они",
+   17
+  ],
+  [
+   "что она",
+   17
+  ],
+  [
+   "меня так",
+   17
+  ],
+  [
+   "через минут",
+   17
+  ],
+  [
+   "очень много",
+   17
+  ],
+  [
+   "понял что",
+   17
+  ],
+  [
+   "что если",
+   17
+  ],
+  [
+   "все будет",
+   17
+  ],
+  [
+   "должно быть",
+   17
+  ],
+  [
+   "тех кто",
+   17
+  ],
+  [
+   "для чего",
+   17
+  ],
+  [
+   "всем сладких",
+   17
+  ],
+  [
+   "всем сладких снов",
+   17
+  ],
+  [
+   "что нет",
+   16
+  ],
+  [
+   "это просто",
+   16
+  ],
+  [
+   "того как",
+   16
+  ],
+  [
+   "без меня",
+   16
+  ],
+  [
+   "иди нахуй",
+   16
+  ],
+  [
+   "или что",
+   16
+  ],
+  [
+   "там только",
+   16
+  ],
+  [
+   "там есть",
+   16
+  ],
+  [
+   "тоже верно",
+   16
+  ],
+  [
+   "про это",
+   16
+  ],
+  [
+   "любом случае",
+   16
+  ],
+  [
+   "слава богу",
+   16
+  ],
+  [
+   "есть такое",
+   16
+  ],
+  [
+   "вот вот",
+   16
+  ],
+  [
+   "кто кто",
+   16
+  ],
+  [
+   "так про",
+   16
+  ],
+  [
+   "как тут",
+   16
+  ],
+  [
+   "так много",
+   16
+  ],
+  [
+   "так похуй",
+   16
+  ],
+  [
+   "больше чем",
+   15
+  ],
+  [
+   "все это",
+   15
+  ],
+  [
+   "если так",
+   15
+  ],
+  [
+   "там еще",
+   15
+  ],
+  [
+   "вот именно",
+   15
+  ],
+  [
+   "тем что",
+   15
+  ],
+  [
+   "что нибудь",
+   15
+  ],
+  [
+   "тоже есть",
+   15
+  ],
+  [
+   "там прям",
+   15
+  ],
+  [
+   "это факт",
+   15
+  ],
+  [
+   "https youtube",
+   15
+  ],
+  [
+   "com shorts",
+   15
+  ],
+  [
+   "https youtube com",
+   15
+  ],
+  [
+   "youtube com shorts",
+   15
+  ],
+  [
+   "сто проц",
+   15
+  ],
+  [
+   "мне похуй",
+   15
+  ],
+  [
+   "тебя там",
+   15
+  ],
+  [
+   "должен быть",
+   15
+  ],
+  [
+   "знал что",
+   15
+  ],
+  [
+   "что что",
+   15
+  ],
+  [
+   "кто сказал",
+   15
+  ],
+  [
+   "нас тут",
+   15
+  ],
+  [
+   "что есть",
+   15
+  ],
+  [
+   "пару раз",
+   15
+  ],
+  [
+   "что как",
+   15
+  ],
+  [
+   "делать нехуй",
+   14
+  ],
+  [
+   "вот тебе",
+   14
+  ],
+  [
+   "это тоже",
+   14
+  ],
+  [
+   "топор подписаться",
+   14
+  ],
+  [
+   "жаль что",
+   14
+  ],
+  [
+   "так просто",
+   14
+  ],
+  [
+   "вот она",
+   14
+  ],
+  [
+   "тоже самое",
+   14
+  ],
+  [
+   "кто такой",
+   14
+  ],
+  [
+   "это еще",
+   14
+  ],
+  [
+   "это будет",
+   14
+  ],
+  [
+   "как говорится",
+   14
+  ],
+  [
+   "если это",
+   14
+  ],
+  [
+   "кто это",
+   14
+  ],
+  [
+   "уже как",
+   14
+  ],
+  [
+   "это когда",
+   14
+  ],
+  [
+   "так меня",
+   14
+  ],
+  [
+   "что тебе",
+   14
+  ],
+  [
+   "надо будет",
+   14
+  ],
+  [
+   "все что",
+   14
+  ],
+  [
+   "кто знает",
+   14
+  ],
+  [
+   "так будет",
+   14
+  ],
+  [
+   "там много",
+   14
+  ],
+  [
+   "как только",
+   14
+  ],
+  [
+   "меня все",
+   14
+  ],
+  [
+   "это хорошо",
+   14
+  ],
+  [
+   "пиздец как",
+   14
+  ],
+  [
+   "знаю как",
+   14
+  ],
+  [
+   "всё что",
+   13
+  ],
+  [
+   "тут как",
+   13
+  ],
+  [
+   "что уже",
+   13
+  ],
+  [
+   "как тебя",
+   13
+  ],
+  [
+   "https www",
+   13
+  ],
+  [
+   "спасибо что",
+   13
+  ],
+  [
+   "значит что",
+   13
+  ],
+  [
+   "кому похуй",
+   13
+  ],
+  [
+   "тебе надо",
+   13
+  ],
+  [
+   "уже всё",
+   13
+  ],
+  [
+   "кто будет",
+   13
+  ],
+  [
+   "кто нибудь",
+   13
+  ],
+  [
+   "кого нибудь",
+   13
+  ],
+  [
+   "там был",
+   13
+  ],
+  [
+   "эту тему",
+   13
+  ]
+ ]
+}
